@@ -10,12 +10,46 @@ categories:
 thumbnailImagePosition: top
 thumbnailImage: >-
   https://res.cloudinary.com/dmpeew57x/image/upload/v1478830067/sooji_thumbnail.jpg
-coverImage: >-
-  https://res.cloudinary.com/dmpeew57x/image/upload/v1478830067/sooji_cover.jpg
 coverMeta: out
 coverSize: partial
 videoId: bTOHFEFO038
 date: 2016-07-28 21:39:47
+jsonLd: {
+  "@context": "http://schema.org/",
+  "@type": "Recipe",
+  "name": "Sooji",
+  "author": "Bong Eats",
+  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/sooji_thumbnail_small.jpg",
+  "description": "Semolina is the broken endosperm of wheat, waiting to be ground into flour. But before it gets there, we use it to make a delightful porridge.",
+  "prepTime": "PT2M",
+  "totalTime": "PT10M",
+  "recipeYield": "2",
+  "recipeIngredient": [
+    "Semolina (sooji)	75 g",
+    "Bay leaf	1 piece",
+    "Cardamom	2 pieces",
+    "Ghee	10 g",
+    "Cashew nuts 20 g",
+    "Raisins	20 g",
+    "Milk	500 g",
+    "Sugar	40 g",
+    "Salt	a pinch"
+  ],
+  "recipeInstructions": [
+    "1. Heat milk till it’s lukewarm (either in the microwave on the stove).",
+    "2. Crush the cardamom pods roughly to release flavour.",
+    "3. Split the cashew nuts in half, lengthwise.",
+    "4. Heat ghee in a pan set on low heat.",
+    "5. Fry the split cashew nuts till golden brown.",
+    "6. Add the bay leaf and crushed cardamom pods.",
+    "7. Add the semolina.",
+    "8. Roast on low heat for 4–5 minutes, stirring continuously for even cooking.",
+    "9. When the semolina starts to take on a slight colour and gives out a nutty smell, add the warm milk, all at one go. This is done to avoid the chances of the semolina clumping from the sudden addition of  the liquid.",
+    "10. Whisk vigorously for about 30 seconds to ensure that no lumps remain.",
+    "11. Add the raisins, sugar, and a pinch of salt.",
+    "12. Cook for 2–3 minutes till the sooji thickens. Stir frequently to avoid the formation of a crust on the surface. The longer you keep the porridge in contact with heat, the more it will thicken. If you prefer a runnier porridge, remove from the pan immediately. If you like it more well-set, turn off the heat and let it sit in the pan for another minute or so."
+   ]
+}
 ---
 
 
@@ -71,42 +105,3 @@ date: 2016-07-28 21:39:47
 
 ## Served with
 - Tea
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Sooji",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/sooji_thumbnail_small.jpg",
-  "description": "Semolina is the broken endosperm of wheat, waiting to be ground into flour. But before it gets there, we use it to make a delightful porridge.",
-  "prepTime": "PT2M",
-  "totalTime": "PT10M",
-  "recipeYield": "2",
-  "recipeIngredient": [
-    "Semolina (sooji)	75 g",
-    "Bay leaf	1 piece",
-    "Cardamom	2 pieces",
-    "Ghee	10 g",
-    "Cashew nuts 20 g",
-    "Raisins	20 g",
-    "Milk	500 g",
-    "Sugar	40 g",
-    "Salt	a pinch"
-  ],
-  "recipeInstructions": [
-    "1. Heat milk till it’s lukewarm (either in the microwave on the stove).",
-    "2. Crush the cardamom pods roughly to release flavour.",
-    "3. Split the cashew nuts in half, lengthwise.",
-    "4. Heat ghee in a pan set on low heat.",
-    "5. Fry the split cashew nuts till golden brown.",
-    "6. Add the bay leaf and crushed cardamom pods.",
-    "7. Add the semolina.",
-    "8. Roast on low heat for 4–5 minutes, stirring continuously for even cooking.",
-    "9. When the semolina starts to take on a slight colour and gives out a nutty smell, add the warm milk, all at one go. This is done to avoid the chances of the semolina clumping from the sudden addition of  the liquid.",
-    "10. Whisk vigorously for about 30 seconds to ensure that no lumps remain.",
-    "11. Add the raisins, sugar, and a pinch of salt.",
-    "12. Cook for 2–3 minutes till the sooji thickens. Stir frequently to avoid the formation of a crust on the surface. The longer you keep the porridge in contact with heat, the more it will thicken. If you prefer a runnier porridge, remove from the pan immediately. If you like it more well-set, turn off the heat and let it sit in the pan for another minute or so."
-   ]
-}
-</script>

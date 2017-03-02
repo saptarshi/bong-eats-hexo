@@ -82,7 +82,7 @@
                 <div class="postShorten-excerpt" itemprop="articleBody">
                     <%- post.excerpt %>
                     <% if (post.link && _('post.go_to_website')) { %>
-                        <a href="<%- url_for(post.link) %>" target="new" class="postShorten-excerpt_link link">
+                        <a href="<%- url_for(post.link) %>" target="_blank" class="postShorten-excerpt_link link">
                             <%= __('post.go_to_website') %>
                         </a>
                     <% } else if (__('post.read_more')) { %>

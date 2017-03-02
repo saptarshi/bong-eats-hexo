@@ -11,12 +11,11 @@ categories:
 thumbnailImagePosition: top
 thumbnailImage: >-
   https://res.cloudinary.com/dmpeew57x/image/upload/v1478833820/chingri-bhaape_thumbnail_d3j5fu.jpg
-coverImage: >-
-  https://res.cloudinary.com/dmpeew57x/image/upload/v1478828357/chingri-bhaape_cover_umqxb3.jpg
 coverMeta: out
 coverSize: partial
 videoId: W4POHmKypkc
 date: 2016-11-10 21:00:00
+jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Chingri bhaape","author":"Bong Eats","image":"https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/chingri-bhaape_thumbnail_small.jpg","description":"This is a potent curry of steamed prawns, not for the faint of heart.","prepTime":"PT25M","totalTime":"PT30M","recipeYield":"4","recipeIngredient":["Prawns 300 g (400 g before cleaning)","Mustard seeds 20 g","Coconut 20 g","Green chillies 4 pieces","Yoghurt 40 g","Turmeric powder 3 g","Salt 12 g","Sugar 15 g","Mustard oil 25 g"],"recipeInstructions":["1 Soak the mustard seeds in water for at least 2 hours.","2 Shell and devein the prawns.","3 Drain the mustard seeds and add to a grinder jar, along with the salt and 3 green chillies.","4 Blitz into a fine paste with the help of 50g water. Open the lid, scrape down the sides, and grind again. Repeat this process till you have a fine paste.","5 Add the sugar, turmeric powder, and chopped coconut into the grinder and blitz again till the coconut breaks down.","6 Transfer this paste to a microwaveable bowl.","7 Add the yoghurt and mix together.","8 Add the prawns and fold in.","9 Top off with the mustard oil and a slit green chilli.","10 Cover the bowl with a plastic wrap.","11 Microwave for 5 minutes."]}
 ---
 
 
@@ -78,41 +77,3 @@ This is an ideal dish to have on the menu if you are having guests over. You can
 
 ## Served with
 - [Rice](/how-to/cook-the-perfect-rice/)
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Chingri bhaape",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/chingri-bhaape_thumbnail_small.jpg",
-  "description": "This is a potent curry of steamed prawns, not for the faint of heart.",
-  "prepTime": "PT25M",
-  "totalTime": "PT30M",
-  "recipeYield": "4",
-  "recipeIngredient": [
-    "Prawns 300 g (400 g before cleaning)",
-    "Mustard seeds 20 g",
-    "Coconut 20 g",
-    "Green chillies 4 pieces",
-    "Yoghurt 40 g",
-    "Turmeric powder 3 g",
-    "Salt 12 g",
-    "Sugar 15 g",
-    "Mustard oil 25 g"
-  ],
-  "recipeInstructions": [
-    "1 Soak the mustard seeds in water for at least 2 hours.",
-    "2 Shell and devein the prawns.",
-    "3 Drain the mustard seeds and add to a grinder jar, along with the salt and 3 green chillies.",
-    "4 Blitz into a fine paste with the help of 50g water. Open the lid, scrape down the sides, and grind again. Repeat this process till you have a fine paste.",
-    "5 Add the sugar, turmeric powder, and chopped coconut into the grinder and blitz again till the coconut breaks down.",
-    "6 Transfer this paste to a microwaveable bowl.",
-    "7 Add the yoghurt and mix together.",
-    "8 Add the prawns and fold in.",
-    "9 Top off with the mustard oil and a slit green chilli.",
-    "10 Cover the bowl with a plastic wrap.",
-    "11 Microwave for 5 minutes."
-   ]
-}
-</script>

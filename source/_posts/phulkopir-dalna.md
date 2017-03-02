@@ -13,12 +13,64 @@ categories:
 thumbnailImagePosition: top
 thumbnailImage: >-
   https://res.cloudinary.com/dmpeew57x/image/upload/v1478830066/phulkopir-dalna_thumbnail.jpg
-coverImage: >-
-  https://res.cloudinary.com/dmpeew57x/image/upload/v1478830066/phulkopir-dalna_cover.jpg
 coverMeta: out
 coverSize: partial
 videoId: P4lvoKc__mc
 date: 2016-07-28 21:39:47
+jsonLd: {
+  "@context": "http://schema.org/",
+  "@type": "Recipe",
+  "name": "Phulkopi'r dalna",
+  "author": "Bong Eats",
+  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835833/thumbs/phulkopir-dalna-thumbnail-small.jpg",
+  "description": "A curry of cauliflower, potatoes, and peas that is a little hot, a little sweet, and with hints of ginger, ghee, and garam masala.",
+  "prepTime": "PT10M",
+  "totalTime": "PT40M",
+  "recipeYield": "4",
+  "recipeIngredient": [
+    "Mustard oil (for frying)	30 g",
+    "Mustard oil (for cooking)	10 g",
+    "Dried red chillies	2 pieces",
+    "Bay leaves	2 pieces",
+    "Cardamom	3 pieces",
+    "Cloves	3 pieces",
+    "Cinnamon	1 piece",
+    "Cumin seeds	2 g (or ¼ tsp)",
+    "Cauliflower	500 g",
+    "Potatoes	250 g",
+    "Peas	50 g",
+    "Tomatoes	50 g",
+    "Ginger paste	30 g",
+    "Cumin powder	5 g",
+    "Coriander powder	1 g",		
+    "Turmeric powder	5 g",
+    "Red chilli powder	1 g",
+    "Salt	16 g",
+    "Sugar	28 g",		
+    "Ghee	7 g",			
+    "Garam masala	powder 1/2 tsp",		
+    "Green chillies	2 g (or 2 pieces)"
+  ],
+  "recipeInstructions": [
+    "1. Cut the cauliflower in large florets, about 5 cm large.",
+    "2. Heat 30 g mustard oil in the pan.",
+    "3. Stir-fry the cauliflower for 5–7 minutes on medium-high heat till they develop a light amber colour.",
+    "4. Remove the cauliflower from the pan and reserve for later use.",
+    "5. Now, heat 10 g mustard oil in the same pan.",
+    "6. Add all the phoron into the oil.",
+    "7. Once the whole spices start crackling, add the cubed potatoes.",
+    "8. Fry the potatoes for 5 minutes on low heat.",
+    "9. Add 100 g of water to the ginger paste, cumin powder, coriander powder, turmeric powder, and red chilli powder.",
+    "10. Add this mixture to the pan and cook on medium heat till the water dries off.",
+    "11. Add the salt, sugar, and another 100 g of water and cook till the water dries off.",
+    "12. Add the diced tomatoes and a green chilli.",
+    "13. Once the tomatoes have assimilated, add the peas and fried cauliflower.",
+    "14. Cook with the lid on for 3 minutes, on low heat.",
+    "15. Add 500 g hot water to the pan.",
+    "16. Cook the potatoes and cauliflower with the lid on for 10 minutes till the cauliflower stalks are tender. They should snap when you run a knife through them, but the florets should not disintegrate from over-boiling.",
+    "17. Garnish with ghee, powdered garam masala, and a green chilli."
+   ]
+}
 ---
 
 
@@ -103,60 +155,3 @@ date: 2016-07-28 21:39:47
 ## Served with
 - [Dal](/tags/dal/)
 - [Rice](/how-to/cook-the-perfect-rice/) | _rooti_
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Phulkopi'r dalna",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835833/thumbs/phulkopir-dalna-thumbnail-small.jpg",
-  "description": "A curry of cauliflower, potatoes, and peas that is a little hot, a little sweet, and with hints of ginger, ghee, and garam masala.",
-  "prepTime": "PT10M",
-  "totalTime": "PT40M",
-  "recipeYield": "4",
-  "recipeIngredient": [
-    "Mustard oil (for frying)	30 g",
-    "Mustard oil (for cooking)	10 g",
-    "Dried red chillies	2 pieces",
-    "Bay leaves	2 pieces",
-    "Cardamom	3 pieces",
-    "Cloves	3 pieces",
-    "Cinnamon	1 piece",
-    "Cumin seeds	2 g (or ¼ tsp)",
-    "Cauliflower	500 g",
-    "Potatoes	250 g",
-    "Peas	50 g",
-    "Tomatoes	50 g",
-    "Ginger paste	30 g",
-    "Cumin powder	5 g",
-    "Coriander powder	1 g",		
-    "Turmeric powder	5 g",
-    "Red chilli powder	1 g",
-    "Salt	16 g",
-    "Sugar	28 g",		
-    "Ghee	7 g",			
-    "Garam masala	powder 1/2 tsp",		
-    "Green chillies	2 g (or 2 pieces)"
-  ],
-  "recipeInstructions": [
-    "1. Cut the cauliflower in large florets, about 5 cm large.",
-    "2. Heat 30 g mustard oil in the pan.",
-    "3. Stir-fry the cauliflower for 5–7 minutes on medium-high heat till they develop a light amber colour.",
-    "4. Remove the cauliflower from the pan and reserve for later use.",
-    "5. Now, heat 10 g mustard oil in the same pan.",
-    "6. Add all the phoron into the oil.",
-    "7. Once the whole spices start crackling, add the cubed potatoes.",
-    "8. Fry the potatoes for 5 minutes on low heat.",
-    "9. Add 100 g of water to the ginger paste, cumin powder, coriander powder, turmeric powder, and red chilli powder.",
-    "10. Add this mixture to the pan and cook on medium heat till the water dries off.",
-    "11. Add the salt, sugar, and another 100 g of water and cook till the water dries off.",
-    "12. Add the diced tomatoes and a green chilli.",
-    "13. Once the tomatoes have assimilated, add the peas and fried cauliflower.",
-    "14. Cook with the lid on for 3 minutes, on low heat.",
-    "15. Add 500 g hot water to the pan.",
-    "16. Cook the potatoes and cauliflower with the lid on for 10 minutes till the cauliflower stalks are tender. They should snap when you run a knife through them, but the florets should not disintegrate from over-boiling.",
-    "17. Garnish with ghee, powdered garam masala, and a green chilli."
-   ]
-}
-</script>

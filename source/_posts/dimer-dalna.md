@@ -12,12 +12,71 @@ categories:
 thumbnailImagePosition: top
 thumbnailImage: >-
   https://res.cloudinary.com/dmpeew57x/image/upload/v1478830065/dimer-dalna_thumbnail.jpg
-coverImage: >-
-  https://res.cloudinary.com/dmpeew57x/image/upload/v1478830065/dimer-dalna_cover.jpg
 coverMeta: out
 coverSize: partial
 videoId: bMuoNOjW4Wc
 date: 2016-07-28 21:39:47
+jsonLd: {
+  "@context": "http://schema.org/",
+  "@type": "Recipe",
+  "name": "Dim'er dalna",
+  "author": "Bong Eats",
+  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/dimer-dalna_thumbnail._smalljpg.jpg",
+  "description": "This is a hearty, filling curry. It is the perfect accompaniment to a plate of steaming rice.",
+  "prepTime": "PT10M",
+  "totalTime": "PT30M",
+  "recipeYield": "4 eggs",
+  "recipeIngredient": [
+    "Mustard oil (for frying) 20 g",
+    "Mustard oil (for cooking) 20 g",
+    "Dried red chillies 2 pieces",
+    "Bay leaves 1 piece",
+    "Cardamom	2	pieces",
+    "Cloves	2	pieces",
+    "Cinnamon	1 piece",
+    "Cumin seeds 1 g (or ¼ tsp)",
+    "Eggs	4	pieces",
+    "Potatoes	4	pieces",
+    "Onions	115	g",
+    "Tomatoes	25 g",
+    "Ginger paste	15 g",
+    "Garlic	2	g",
+    "Cumin powder	2	g",
+    "Coriander powder 2	g",		
+    "Turmeric powder 4 g	(plus ¼ tsp extra for frying the eggs)",
+    "Red chilli powder 1 g",
+    "Salt (for the curry)	6	g",
+    "Salt (for boiling potatoes) 6 g",
+    "Sugar 15 g",
+    "Green chillies	1	g (or 1 piece)"
+  ],
+  "recipeInstructions": [
+    "1 Bring a pot of water to a boil.",
+    "2 Lower the eggs (which should be at room temperature; eggs from the refrigerator might crack when added to boiling water) in the water and cook them on low heat for 6 minutes (duck eggs) or 5 minutes (chicken eggs), with the lid on.",
+    "3 Turn off the heat and let the eggs sit in the hot water for another 3 minutes. We want the yolks gooey.",
+    "4 Drain the water and remove the shells.",
+    "5 Prick the eggs all around with a toothpick. This will prevent the eggs from bursting when fried and allow the gravy to seep into the yoke.",
+    "6 Coat the eggs in ¼ tsp each of salt and turmeric powder.",
+    "7 Fry the eggs in 10 g mustard oil on medium heat for 5 minutes, till they develop an even amber-coloured crust.",
+    "8 Set aside.",
+    "9 Peel and cut the potatoes in chunks of 5 cm. We need as many pieces of potatoes as there are eggs (four, in this case).",
+    "10 Place them in a microwaveable bowl.",
+    "11 Add 6 g of salt and 2 tablespoons of water.",
+    "12 Cover with cling film and microwave for 3 minutes. Alternatively, you can also boil them on the stove till partially cooked.",
+    "13 Set aside.",
+    "14 Now, heat 20 g mustard oil in a pan.",
+    "15 Temper the oil with the phoron.",
+    "16 Add the chopped onions and sugar to the pan and fry on medium heat for 5–7 minutes.",
+    "17 Add the ginger paste and minced garlic to the pan, and fry for another 3–4 minutes.",
+    "18 Make a spice paste by adding 50 g water to the cumin powder, coriander powder, turmeric powder, red chilli powder, and salt.",
+    "19 Add this mixture to the pan and cook on medium heat till the water dries off.",
+    "20 Then, add another 50g of water, along with the tomatoes and green chilli, and cook till the water dries off.",
+    "21 Add the parboiled potatoes and cook on low heat for 2 minutes.",
+    "22 Then add the eggs. Cook for another minute. Stop here if you want dim’er kosha, a rich gravy to accompany your fried rice or luchi. For a lighter curry to eat with steamed rice, proceed to the next step.",
+    "23 Now, add 225 g hot water to the pan. This will form the curry.",
+    "24 Boil for 5 minutes with lid on before removing from the heat."
+   ]
+}
 ---
 
 
@@ -114,67 +173,3 @@ date: 2016-07-28 21:39:47
 - [Steamed rice](/how-to/cook-the-perfect-rice/)
 - Fried rice
 - Luchi
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Dim'er dalna",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/dimer-dalna_thumbnail._smalljpg.jpg",
-  "description": "This is a hearty, filling curry. It is the perfect accompaniment to a plate of steaming rice.",
-  "prepTime": "PT10M",
-  "totalTime": "PT30M",
-  "recipeYield": "4 eggs",
-  "recipeIngredient": [
-    "Mustard oil (for frying) 20 g",
-    "Mustard oil (for cooking) 20 g",
-    "Dried red chillies 2 pieces",
-    "Bay leaves 1 piece",
-    "Cardamom	2	pieces",
-    "Cloves	2	pieces",
-    "Cinnamon	1 piece",
-    "Cumin seeds 1 g (or ¼ tsp)",
-    "Eggs	4	pieces",
-    "Potatoes	4	pieces",
-    "Onions	115	g",
-    "Tomatoes	25 g",
-    "Ginger paste	15 g",
-    "Garlic	2	g",
-    "Cumin powder	2	g",
-    "Coriander powder 2	g",		
-    "Turmeric powder 4 g	(plus ¼ tsp extra for frying the eggs)",
-    "Red chilli powder 1 g",
-    "Salt (for the curry)	6	g",
-    "Salt (for boiling potatoes) 6 g",
-    "Sugar 15 g",
-    "Green chillies	1	g (or 1 piece)"
-  ],
-  "recipeInstructions": [
-    "1 Bring a pot of water to a boil.",
-    "2 Lower the eggs (which should be at room temperature; eggs from the refrigerator might crack when added to boiling water) in the water and cook them on low heat for 6 minutes (duck eggs) or 5 minutes (chicken eggs), with the lid on.",
-    "3 Turn off the heat and let the eggs sit in the hot water for another 3 minutes. We want the yolks gooey.",
-    "4 Drain the water and remove the shells.",
-    "5 Prick the eggs all around with a toothpick. This will prevent the eggs from bursting when fried and allow the gravy to seep into the yoke.",
-    "6 Coat the eggs in ¼ tsp each of salt and turmeric powder.",
-    "7 Fry the eggs in 10 g mustard oil on medium heat for 5 minutes, till they develop an even amber-coloured crust.",
-    "8 Set aside.",
-    "9 Peel and cut the potatoes in chunks of 5 cm. We need as many pieces of potatoes as there are eggs (four, in this case).",
-    "10 Place them in a microwaveable bowl.",
-    "11 Add 6 g of salt and 2 tablespoons of water.",
-    "12 Cover with cling film and microwave for 3 minutes. Alternatively, you can also boil them on the stove till partially cooked.",
-    "13 Set aside.",
-    "14 Now, heat 20 g mustard oil in a pan.",
-    "15 Temper the oil with the phoron.",
-    "16 Add the chopped onions and sugar to the pan and fry on medium heat for 5–7 minutes.",
-    "17 Add the ginger paste and minced garlic to the pan, and fry for another 3–4 minutes.",
-    "18 Make a spice paste by adding 50 g water to the cumin powder, coriander powder, turmeric powder, red chilli powder, and salt.",
-    "19 Add this mixture to the pan and cook on medium heat till the water dries off.",
-    "20 Then, add another 50g of water, along with the tomatoes and green chilli, and cook till the water dries off.",
-    "21 Add the parboiled potatoes and cook on low heat for 2 minutes.",
-    "22 Then add the eggs. Cook for another minute. Stop here if you want dim’er kosha, a rich gravy to accompany your fried rice or luchi. For a lighter curry to eat with steamed rice, proceed to the next step.",
-    "23 Now, add 225 g hot water to the pan. This will form the curry.",
-    "24 Boil for 5 minutes with lid on before removing from the heat."
-   ]
-}
-</script>

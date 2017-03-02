@@ -40,7 +40,7 @@ module.exports = function(grunt) {
         startTag: '<!--STYLES-->',
         endTag: '<!--STYLES END-->',
         inline: true,
-        fileTmpl: '<style>%s</style>',
+        fileTmpl: '<style amp-custom>%s</style>',
         appRoot: 'source/'
       },
       files: {

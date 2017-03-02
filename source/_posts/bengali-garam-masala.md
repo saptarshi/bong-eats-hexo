@@ -11,12 +11,11 @@ categories:
 thumbnailImagePosition: top
 thumbnailImage: >-
   https://res.cloudinary.com/dmpeew57x/image/upload/v1479358970/bengali-garam-masala_thumbnail_ntkhde.jpg
-coverImage: >-
-  https://res.cloudinary.com/dmpeew57x/image/upload/v1479358970/Bengali-garam-masala_cover_rpqnvc.jpg
 coverMeta: out
 coverSize: partial
 videoId: GqlDz7dQMA0
 date: 2016-11-24 20:30:00
+jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Bengali garam masala","author":"Bong Eats","image":"https://res.cloudinary.com/dmpeew57x/image/upload/v1479358970/bengali-garam-masala-cover-small_r61kr3.jpg","description":"The Bengali _garam masala_ contains just three simple ingredients.","prepTime":"PT5M","totalTime":"PT10M","recipeYield":"10 g","recipeIngredient":["Cardamom 7	g","Cloves 2	g","Cinnamon 2 g"],"recipeInstructions":["1 Measure out the whole spices in the given proportion. You may lightly crush them with a pestle or rolling pin, if you like.","2 Heat a pan on medium-low and add the whole spices.","3 Dry-roast them evenly on all sides, stirring continuously. This should take about 5 minutes.","4 Add the toasted spices to a grinder and blitz them till you have a fine powder. You can also use a mortar and pestle.","5 Store the garam masala powder in an airtight container for up to 2 months."]}
 ---
 
 
@@ -57,29 +56,3 @@ In Bengali cooking, _garam masala_ is used to flavour egg, chicken, mutton, lamb
 3. Dry-roast them evenly on all sides, stirring continuously, for about 5 minutes. You should be able to smell the fragrance of the _garam masala_ by this point.
 4. Add the toasted spices to a grinder and blitz them till you have a fine powder. You can also use a mortar and pestle to grind by hand.
 5. Store the _garam masala_ powder in an airtight container.
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Bengali garam masala",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1479358970/bengali-garam-masala-cover-small_r61kr3.jpg",
-  "description": "The Bengali _garam masala_ contains just three simple ingredients.",
-  "prepTime": "PT5M",
-  "totalTime": "PT10M",
-  "recipeYield": "10 g",
-  "recipeIngredient": [
-    "Cardamom 7	g",
-    "Cloves 2	g",
-    "Cinnamon 2 g"
-  ],
-  "recipeInstructions": [
-    "1 Measure out the whole spices in the given proportion. You may lightly crush them with a pestle or rolling pin, if you like.",
-    "2 Heat a pan on medium-low and add the whole spices.",
-    "3 Dry-roast them evenly on all sides, stirring continuously. This should take about 5 minutes.",
-    "4 Add the toasted spices to a grinder and blitz them till you have a fine powder. You can also use a mortar and pestle.",
-    "5 Store the garam masala powder in an airtight container for up to 2 months."
-   ]
-}
-</script>

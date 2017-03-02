@@ -13,12 +13,11 @@ categories:
 thumbnailImagePosition: top
 thumbnailImage: >-
   https://res.cloudinary.com/dmpeew57x/image/upload/v1479339208/badhakopir-ghonto_thumbnail_c7ocub.jpg
-coverImage: >-
-  https://res.cloudinary.com/dmpeew57x/image/upload/v1479339210/badhakopir-ghonto_cover_pro2jo.jpg
 coverMeta: out
 coverSize: partial
 videoId: nmkY-fGFTuY
 date: 2016-12-01 20:30:00
+jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Badhakopi'r ghonto","author":"Bong Eats","image":"https://res.cloudinary.com/dmpeew57x/image/upload/v1479339208/badhakopir-ghonto_cover-small_uif59l.jpg","description":"This is a beautifully spiced cabbage and peas preparation that is hot, sweet, and with hints of ginger, ghee, and garam masala.","prepTime":"PT10M","totalTime":"PT45M","recipeYield":"4","recipeIngredient":["Mustard oil (for cooking) 15 g","Dried red chillies 1 piece","Bay leaves 1 piece","Cardamom 1 piece","Cloves 1 piece","Cinnamon 1 piece","Cumin seeds 2 g (or ¼ tsp)","Cabbage 400 g","Potatoes 100 g","Peas 50 g","Tomatoes 30 g","Prawns (optional) 75 g","Ginger paste 20 g","Cumin powder 2 g","Coriander powder 1 g","Turmeric powder 3 g","Red chilli powder 1 g","Salt 10 g","Sugar 25 g","Ghee 4 g","Garam masala ¼ tsp","Green chillies 2 g (or 2 pieces)"],"recipeInstructions":["1 Cut the cabbage into the thinnest possible shreds that you can manage. To make this process easier, deal with the vegetable in sections. Take out a 4cm-thick slice from the head of the cabbage and use your knife to shave off the shreds from the cross-section. The finer you cut the cabbage, the better. So, take your time at this stage.","2 Heat 15g mustard oil in the pan.","3 Add the phoron to the oil.","4 Once the spices start crackling, add the cubed potatoes.","5 Fry the potatoes for 3 minutes on low heat, with the lid on.","6 Add 80g of water to the ginger paste, cumin powder, coriander powder, turmeric powder, and red chilli powder.","7 Add this mixture to the potatoes and cook on medium heat till the water dries off.","8 Add the diced tomatoes.","9 Then, add another 80g of water and cook till the water dries off.","10 Add the peas and a green chilli and cook with the lid on for a minute.","11 Add the shredded cabbage to the pan, along with the salt.","12 Fold in the spices and cook with the lid on. The salt we just added will start dehydrating the cabbage and drawing out its favours. We need this water to turn to steam and cook the cabbage, so it’s important to keep the lid on.","13 Cook the cabbage on low heat, with the lid on, for 12 minutes, stirring intermittently. Keep an eye on the pan so that the cabbage doesn’t stick to the bottom.","14 Add the sugar and cook for another 15 minutes, stirring intermittently. The sugar will start to caramelise. So, be sure to scrape the browned bits of the torkari that stick to the bottom of your pan.","15 If adding the prawns: (a) Marinate them in ¼ tsp each of salt and turmeric powder; (b) Fry them in a separate pan for 30 seconds on each side; (c) Chop them up in 1-cm-small pieces; and (d) Add these to the torkari.","16 Garnish with ghee, powdered garam masala, and a green chilli."]}
 ---
 
 
@@ -98,59 +97,3 @@ date: 2016-12-01 20:30:00
 ## Served with
 - [Dal](/tags/dal/)
 - [Rice](/how-to/cook-the-perfect-rice/) | roti
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Badhakopi'r ghonto",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1479339208/badhakopir-ghonto_cover-small_uif59l.jpg",
-  "description": "This is a beautifully spiced cabbage and peas preparation that is hot, sweet, and with hints of ginger, ghee, and garam masala.",
-  "prepTime": "PT10M",
-  "totalTime": "PT45M",
-  "recipeYield": "4",
-  "recipeIngredient": [
-    "Mustard oil (for cooking) 15 g",
-    "Dried red chillies 1 piece",
-    "Bay leaves 1 piece",
-    "Cardamom 1 piece",
-    "Cloves 1 piece",
-    "Cinnamon 1 piece",
-    "Cumin seeds 2 g (or ¼ tsp)",
-    "Cabbage 400 g",
-    "Potatoes 100 g",
-    "Peas 50 g",
-    "Tomatoes 30 g",
-    "Prawns (optional) 75 g",
-    "Ginger paste 20 g",
-    "Cumin powder 2 g",
-    "Coriander powder 1 g",
-    "Turmeric powder 3 g",
-    "Red chilli powder 1 g",
-    "Salt 10 g",
-    "Sugar 25 g",
-    "Ghee 4 g",
-    "Garam masala ¼ tsp",
-    "Green chillies 2 g (or 2 pieces)"
-  ],
-  "recipeInstructions": [
-    "1 Cut the cabbage into the thinnest possible shreds that you can manage. To make this process easier, deal with the vegetable in sections. Take out a 4cm-thick slice from the head of the cabbage and use your knife to shave off the shreds from the cross-section. The finer you cut the cabbage, the better. So, take your time at this stage.",
-    "2 Heat 15g mustard oil in the pan.",
-    "3 Add the phoron to the oil.",
-    "4 Once the spices start crackling, add the cubed potatoes.",
-    "5 Fry the potatoes for 3 minutes on low heat, with the lid on.",
-    "6 Add 80g of water to the ginger paste, cumin powder, coriander powder, turmeric powder, and red chilli powder.",
-    "7 Add this mixture to the potatoes and cook on medium heat till the water dries off.",
-    "8 Add the diced tomatoes.",
-    "9 Then, add another 80g of water and cook till the water dries off.",
-    "10 Add the peas and a green chilli and cook with the lid on for a minute.",
-    "11 Add the shredded cabbage to the pan, along with the salt.",
-    "12 Fold in the spices and cook with the lid on. The salt we just added will start dehydrating the cabbage and drawing out its favours. We need this water to turn to steam and cook the cabbage, so it’s important to keep the lid on.",
-    "13 Cook the cabbage on low heat, with the lid on, for 12 minutes, stirring intermittently. Keep an eye on the pan so that the cabbage doesn’t stick to the bottom.",
-    "14 Add the sugar and cook for another 15 minutes, stirring intermittently. The sugar will start to caramelise. So, be sure to scrape the browned bits of the torkari that stick to the bottom of your pan.",
-    "15 If adding the prawns: (a) Marinate them in ¼ tsp each of salt and turmeric powder; (b) Fry them in a separate pan for 30 seconds on each side; (c) Chop them up in 1-cm-small pieces; and (d) Add these to the torkari.",
-    "16 Garnish with ghee, powdered garam masala, and a green chilli."
-   ]
-}
-</script>

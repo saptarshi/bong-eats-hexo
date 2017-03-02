@@ -11,12 +11,39 @@ categories:
 thumbnailImagePosition: top
 thumbnailImage: >-
   https://res.cloudinary.com/dmpeew57x/image/upload/v1478830065/luchi_thumbnail.jpg
-coverImage: >-
-  https://res.cloudinary.com/dmpeew57x/image/upload/v1478830066/luchi_cover.jpg
 coverMeta: out
 coverSize: partial
 videoId: qH1kB0u35dI
 date: 2016-07-28 21:39:47
+jsonLd: {
+  "@context": "http://schema.org/",
+  "@type": "Recipe",
+  "name": "Luchi",
+  "author": "Bong Eats",
+  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/luchi_thumbnail_small.jpg",
+  "description": "We share with you the tips and tricks to making the perfect luchis, including a special hack for beginners.",
+  "prepTime": "PT30M",
+  "totalTime": "PT60M",
+  "recipeYield": "20 luchis",
+  "recipeIngredient": [
+    "Flour 200 g",
+    "Salt 4 g",
+    "Sugar 10 g",
+    "Oil 15 g",
+    "Hot water 110 g"
+  ],
+  "recipeInstructions": [
+    "1. Place the flour in a bowl with the salt, sugar, and oil, and distribute the ingredients well by hand.",
+    "2. Add the hot water.",
+    "3. Set your timer for 10 minutes and knead the dough till it is soft and supple. The dough might seem a bit sticky at first, but take your time and knead it well, incorporating all the water.",
+    "4. Cover the dough with either a lid, wet towel, or plastic wrap, and allow it to rest for at least 30 minutes.",
+    "5. Portion the dough in 20 equal balls of 16–17g each.",
+    "6. Shape each portion of the dough into a round ball. Resting the dough for 5 minutes each before shaping and rolling will make the job easier.",
+    "7. Roll each ball into a disc of about 10cm in diameter. Beginners may roll out the luchis between two sheets of well-oiled baking paper. This will help apply pressure evenly.",
+    "8. Lower into hot oil set over medium heat and fry the luchis one at a time, gently patting the tops of the luchis with the flat end of your frying spoon to make them puff.",
+    "9. Drain the fried luchis on a rack, colander, or over paper towels."
+   ]
+}
 ---
 
 
@@ -73,35 +100,3 @@ Another tip that a lot of beginners would benefit from is this: allow the dough 
 - Dim’er kosha
 - Kosha maangsho
 - Payesh
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Luchi",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/luchi_thumbnail_small.jpg",
-  "description": "We share with you the tips and tricks to making the perfect luchis, including a special hack for beginners.",
-  "prepTime": "PT30M",
-  "totalTime": "PT60M",
-  "recipeYield": "20 luchis",
-  "recipeIngredient": [
-    "Flour 200 g",
-    "Salt 4 g",
-    "Sugar 10 g",
-    "Oil 15 g",
-    "Hot water 110 g"
-  ],
-  "recipeInstructions": [
-    "1. Place the flour in a bowl with the salt, sugar, and oil, and distribute the ingredients well by hand.",
-    "2. Add the hot water.",
-    "3. Set your timer for 10 minutes and knead the dough till it is soft and supple. The dough might seem a bit sticky at first, but take your time and knead it well, incorporating all the water.",
-    "4. Cover the dough with either a lid, wet towel, or plastic wrap, and allow it to rest for at least 30 minutes.",
-    "5. Portion the dough in 20 equal balls of 16–17g each.",
-    "6. Shape each portion of the dough into a round ball. Resting the dough for 5 minutes each before shaping and rolling will make the job easier.",
-    "7. Roll each ball into a disc of about 10cm in diameter. Beginners may roll out the luchis between two sheets of well-oiled baking paper. This will help apply pressure evenly.",
-    "8. Lower into hot oil set over medium heat and fry the luchis one at a time, gently patting the tops of the luchis with the flat end of your frying spoon to make them puff.",
-    "9. Drain the fried luchis on a rack, colander, or over paper towels."
-   ]
-}
-</script>

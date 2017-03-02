@@ -10,7 +10,7 @@ module.exports = function(grunt) {
     },
     // Concat all stylesheets file into `style.css`
     prodCss: {
-      src: ['source/assets/css/*.css'],
+      src: ['source/assets/css/bongeats.css'],
       dest: 'source/assets/css/style.css'
     },
     // Concat all javascript file in `script.js`

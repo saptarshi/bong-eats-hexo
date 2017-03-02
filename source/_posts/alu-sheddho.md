@@ -11,12 +11,11 @@ categories:
 thumbnailImagePosition: top
 thumbnailImage: >-
   https://res.cloudinary.com/dmpeew57x/image/upload/v1478830065/alu-sheddho_thumbnail.jpg
-coverImage: >-
-  https://res.cloudinary.com/dmpeew57x/image/upload/v1478830067/alu-sheddho_cover.jpg
 coverMeta: out
 coverSize: partial
 videoId: VcK4c7xqbI0
 date: 2016-07-28 21:39:47
+jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Alu sheddho","author":"Bong Eats","image":"https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/alu-sheddho_thumbnail_small.jpg","description":"This is the Bengali version of the mashed potato in its most basic form. It is made up of just four ingredients.","prepTime":"PT5M","totalTime":"PT20M","recipeYield":"4","recipeIngredient":["Potatoes	340 g","Green chillies	2 g (or 2 pieces)","Ghee | butter | mustard oil	12 g","Salt	4 g"],"recipeInstructions":["1 Peel the potatoes and cut them into pieces 5 cm large.","2 Place them in a pot of water and set them to boil.","3 Cook the potatoes till they are tender. Use a fork or knife to check if they are done.","4 Drain the water and transfer the boiled potatoes onto a plate or mixing dish.","5 While they are still hot, mash the potatoes with a fork.","6 Add the fat of your choice (ghee or butter or mustard oil), green chillies, and salt.","7 Continue mashing with the fork or by hand till the mixture is smooth and lump-free.","8 Form into balls and serve."]}
 ---
 
 
@@ -63,33 +62,3 @@ date: 2016-07-28 21:39:47
 ## Served with
 - [Dal](/tags/dal/)
 - [Rice](/how-to/cook-the-perfect-rice/)
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Alu sheddho",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/alu-sheddho_thumbnail_small.jpg",
-  "description": "This is the Bengali version of the mashed potato in its most basic form. It is made up of just four ingredients.",
-  "prepTime": "PT5M",
-  "totalTime": "PT20M",
-  "recipeYield": "4",
-  "recipeIngredient": [
-    "Potatoes	340 g",
-    "Green chillies	2 g (or 2 pieces)",
-    "Ghee | butter | mustard oil	12 g",
-    "Salt	4 g"
-  ],
-  "recipeInstructions": [
-    "1 Peel the potatoes and cut them into pieces 5 cm large.",
-    "2 Place them in a pot of water and set them to boil.",
-    "3 Cook the potatoes till they are tender. Use a fork or knife to check if they are done.",
-    "4 Drain the water and transfer the boiled potatoes onto a plate or mixing dish.",
-    "5 While they are still hot, mash the potatoes with a fork.",
-    "6 Add the fat of your choice (ghee or butter or mustard oil), green chillies, and salt.",
-    "7 Continue mashing with the fork or by hand till the mixture is smooth and lump-free.",
-    "8 Form into balls and serve."
-   ]
-}
-</script>

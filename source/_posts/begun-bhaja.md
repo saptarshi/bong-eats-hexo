@@ -10,12 +10,11 @@ categories:
 thumbnailImagePosition: top
 thumbnailImage: >-
   https://res.cloudinary.com/dmpeew57x/image/upload/v1481780302/begun-bhaja-thumbnail_ttcgy6.jpg
-coverImage: >-
-  https://res.cloudinary.com/dmpeew57x/image/upload/v1481780312/begun-bhaja-cover_nepxmb.jpg
 coverMeta: out
 coverSize: partial
 videoId: TKkzlsSpzEc
 date: 2016-12-29 09:00:00
+jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Begun Bhaja","author":"Bong Eats","image":"https://res.cloudinary.com/dmpeew57x/image/upload/v1481780296/begun-bhaja-thumbnail-small_dwcxsu.jpg","description":"This is a recipe of brinjal fried to the an amber-coloured crisp on the outside, while remaining soft and mushy inside.","prepTime":"PT5M","totalTime":"PT20M","recipeYield":"6 slices of begun bhaja","recipeIngredient":["Large brinjal  1 piece","Turmeric powder ¼ tsp","Red chilli powder a pinch","Salt  ¾ tsp","Sugar 1½ tsp","Flour (atta)  ¾ tsp","Mustard oil (for frying)  80 g"],"recipeInstructions":["1. Wash the brinjal and chop off its stalk. Cut the vegetable along the cross-section into discs, 2 cm thick. A large brinjal should yield about 6 slices.","2. In a mixing bowl, combine the turmeric powder, red chilli powder, salt, sugar, and atta.","3. Add the brinjal slices to the bowl and coat them with the spices.","4. Cover and let them rest for at least 15 minutes. During this time, the salt and sugar will draw out the water from the brinjal slices and soften them up. The moisture generated will also help all the flavours mingle nicely. So, don’t skip this step","5. Now, heat mustard oil in a skillet till it starts smoking lightly. For even frying, the depth of the mustard oil in the pan should be at least 1 cm.","6. Lower the marinated brinjal slices into the oil one by one and fry them on each side, for about 3 minutes, till they are golden. Make sure that the pan is set on medium-low heat; we want to cook the brinjal slices from the inside while allowing them to develop a nice crust on the outside. Also, keep a close eye on the pan, as the sugar in the marinade may burn.","7. When golden, lift the begun bhaja from the oil. Hold them against the side of the pan for about 20 seconds to drain out excess oil, or use paper towels to soak it up. Serve hot."]}
 ---
 
 
@@ -67,35 +66,3 @@ This recipe uses one large brinjal. When shopping for the vegetable, be sure to 
 ## Served with
 - [Dal](/tags/dal/)
 - [Rice](/how-to/cook-the-perfect-rice/) | _luchi_
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Begun Bhaja",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1481780296/begun-bhaja-thumbnail-small_dwcxsu.jpg",
-  "description": "This is a recipe of brinjal fried to the an amber-coloured crisp on the outside, while remaining soft and mushy inside.",
-  "prepTime": "PT5M",
-  "totalTime": "PT20M",
-  "recipeYield": "6 slices of begun bhaja",
-  "recipeIngredient": [
-    "Large brinjal  1 piece",
-    "Turmeric powder ¼ tsp",
-    "Red chilli powder a pinch",
-    "Salt  ¾ tsp",
-    "Sugar 1½ tsp",
-    "Flour (atta)  ¾ tsp",
-    "Mustard oil (for frying)  80 g"
-  ],
-  "recipeInstructions": [
-    "1. Wash the brinjal and chop off its stalk. Cut the vegetable along the cross-section into discs, 2 cm thick. A large brinjal should yield about 6 slices.",
-    "2. In a mixing bowl, combine the turmeric powder, red chilli powder, salt, sugar, and atta.",
-    "3. Add the brinjal slices to the bowl and coat them with the spices.",
-    "4. Cover and let them rest for at least 15 minutes. During this time, the salt and sugar will draw out the water from the brinjal slices and soften them up. The moisture generated will also help all the flavours mingle nicely. So, don’t skip this step",
-    "5. Now, heat mustard oil in a skillet till it starts smoking lightly. For even frying, the depth of the mustard oil in the pan should be at least 1 cm.",
-    "6. Lower the marinated brinjal slices into the oil one by one and fry them on each side, for about 3 minutes, till they are golden. Make sure that the pan is set on medium-low heat; we want to cook the brinjal slices from the inside while allowing them to develop a nice crust on the outside. Also, keep a close eye on the pan, as the sugar in the marinade may burn.",
-    "7. When golden, lift the begun bhaja from the oil. Hold them against the side of the pan for about 20 seconds to drain out excess oil, or use paper towels to soak it up. Serve hot."
-   ]
-}
-</script>

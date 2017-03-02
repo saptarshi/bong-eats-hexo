@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://bongeats.com/"/>
-  <updated>2017-02-24T03:10:40.251Z</updated>
+  <updated>2017-03-02T08:45:43.979Z</updated>
   <id>https://bongeats.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://bongeats.com/recipe/pabda-machher-tel-jhol/"/>
     <id>https://bongeats.com/recipe/pabda-machher-tel-jhol/</id>
     <published>2017-02-23T17:00:00.000Z</published>
-    <updated>2017-02-24T03:10:40.251Z</updated>
+    <updated>2017-03-02T08:45:43.979Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">A flavourful, light curry with <em>pabda</em> fish</p>
 
@@ -143,63 +143,6 @@
 <h2 id="Served-with"><a href="#Served-with" class="headerlink" title="Served with"></a>Served with</h2><ul>
 <li><a href="/how-to/cook-the-perfect-rice/">Rice</a></li>
 </ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Pabda Machh'er Tel Jhol",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1487900313/pabda-mach-thumbnail-small_ddzr4v.jpg",
-  "description": "A light, hearty, delicious delicacy, the padba macher tel jhol is packed with the flavours of Bengal’s prized sweetwater pabda fish.",
-  "prepTime": "PT15M",
-  "totalTime": "PT30M",
-  "recipeYield": "5 servings",
-  "recipeIngredient": [
-    "450 g  Pabda machh (cut and cleaned)",
-    "35 g  Mustard oil (for frying)",
-    "7 g  Mustard oil (for cooking)",
-    "7 g  Mustard oil (for garnish)",
-    "¼ tsp  Kaalo jeere (nigella seeds)",
-    "5 pieces  Green chillies (slit)",
-    "25 g  Tomato (roughly chopped)",
-    "10 pieces  Dal’er bori",
-    "100 g  Brinjal (5-cm segments)",
-    "15 g (plus ¾ tsp extra for marinating)  Salt",
-    "6 g (plus ¾ tsp extra for marinating)  Turmeric powder",
-    "½ tsp  Atta (flour)",
-    "8 g  Coriander leaves (finely chopped)",
-    "400 g  Warm water"
-  ],
-  "recipeInstructions": [
-    "1. Smear the cut and cleaned padba machh with ¾ tsp turmeric powder, ¾ tsp salt, and 1 tsp mustard oil. Mix till the fish are well coated, and set aside.",
-    "2. Cut the brinjal into 5-cm segments. We need as many pieces of brinjal as there are fish—in this case, five.",
-    "3. Roughly chop the tomatoes.",
-    "4. Slit the green chillies.",
-    "5. Heat your kadai well and add 35 g mustard oil to the pan.",
-    "6. Once the oil is completely hot (that is, once it has begun to smoke lightly and changed colour to a pale yellow), add the dal’er bori.",
-    "7. Fry the boris for about 20 seconds till they are golden brown. They colour very quickly, so be alert while frying them.",
-    "8. Remove the boris from the oil and set aside.",
-    "9. Next, add the brinjal pieces to the oil.",
-    "10. Stir-fry for about 4 minutes till they are golden. Remove them from the oil and set aside.",
-    "11. Now, in batches, fry the marinated fish. Fresh, sweetwater fish such as the pabda do not need heavy searing. Fry them lightly to preserve their delicate flavour. A minute on each side should do the job.",
-    "12. Remove the fried fish on a plate and reserve for later use.",
-    "13. Before we start, make a paste of with 15 g salt, 6 g turmeric powder, and 50 g water. Mix and keep ready.",
-    "14. Heat 7 g mustard oil in the kadai. (If the oil that you fried the fish in is not burnt, you may use the same oil to prepare the jhol.)",
-    "15. Add the kaalo jeere, tomatoes, and 3 green chillies to the oil.",
-    "16. Fry them for a minute on medium heat.",
-    "17. Add the turmeric and salt mixture to the pan, and fry till the water in the spice mix dries up.",
-    "18. Now, pour 400 g of hot water (either heated in an electric kettle or on the stove) into the pan. This will form the curry.",
-    "19. Once the curry starts to simmer, add in the fried boris.",
-    "20. Simmer for another 2 minutes before lowering in the pabda machh, one by one. Also add the fish drippings that might have collected on the plate that held the fried fish; they are delicious.",
-    "21. Add the fried brinjal to the curry.",
-    "22. Let everything bubble for about 5 minutes. As the curry boils, you will notice that the colour of the jhol has changed from deep yellow to bright yellow. That’s when you know that the turmeric is cooked, and that the curry won’t taste of the raw spice.",
-    "23. Now, pick one of the softened green chillies from the curry onto a small bowl. Add ½ tsp atta to it, along with 1 tbsp of water. Mash the three together, until paste-like.",
-    "24. Add this mixture to the jhol. The mashed green chilli will release the heat, while the flour will help the curry thicken and develop body.",
-    "25. Garnish with 2 more slit green chillies, a drizzle of mustard oil (about 7 g), and chopped coriander.",
-    "26. Allow everything to bubble for a couple of more minutes, before turning off the heat."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -224,7 +167,7 @@
     <link href="https://bongeats.com/recipe/panch-phoron/"/>
     <id>https://bongeats.com/recipe/panch-phoron/</id>
     <published>2017-02-16T17:00:00.000Z</published>
-    <updated>2017-02-17T04:44:20.513Z</updated>
+    <updated>2017-03-02T08:46:05.282Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">Bengali five-spice mix for tempering oil</p>
 
@@ -277,29 +220,6 @@
 <li>Temper chutneys</li>
 <li>Flavour pickles</li>
 </ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Panch Phoron",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1487297456/panchphoron-thumbnail-small-_gcah1e.jpg",
-  "description": "A Bengali five-spice mix for tempering oil",
-  "prepTime": "PT5M",
-  "totalTime": "PT5M",
-  "recipeYield": "50 g of panch phoron",
-  "recipeIngredient": [
-    "1 tbsp  mouri (fennel seeds)",
-    "1 tbsp  methi (fenugreek seeds)",
-    "1 tbsp  kaalo jeere (nigella seeds)",
-    "1 tbsp  shorshe (mustard seeds)",
-    "1 tbsp  radhuni"
-  ],
-  "recipeInstructions": [
-    "Mix all the whole spices together in equal proportions and store in an airtight container."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -311,13 +231,13 @@
       <category term="recipe" scheme="https://bongeats.com/categories/recipe/"/>
     
     
-      <category term="masala" scheme="https://bongeats.com/tags/masala/"/>
-    
       <category term="vegetarian" scheme="https://bongeats.com/tags/vegetarian/"/>
     
       <category term="gluten-free" scheme="https://bongeats.com/tags/gluten-free/"/>
     
       <category term="how-to" scheme="https://bongeats.com/tags/how-to/"/>
+    
+      <category term="masala" scheme="https://bongeats.com/tags/masala/"/>
     
   </entry>
   
@@ -326,7 +246,7 @@
     <link href="https://bongeats.com/recipe/phulkopir-bora/"/>
     <id>https://bongeats.com/recipe/phulkopir-bora/</id>
     <published>2017-02-09T17:00:00.000Z</published>
-    <updated>2017-02-10T02:46:09.258Z</updated>
+    <updated>2017-03-02T08:47:07.658Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">Crispy, golden cauliflower fritters</p>
 
@@ -419,46 +339,6 @@
 <li><a href="/how-to/cook-the-perfect-rice/">Rice</a></li>
 <li><a href="/tags/dal/">Dal</a></li>
 </ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Phulkopi'r Bora | Cauliflower fritters",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1486690403/thumbnail-small-phulkopirbora_mcr2ij.jpg",
-  "description": "Crispy, golden cauliflower fritters",
-  "prepTime": "PT5M",
-  "totalTime": "PT20M",
-  "recipeYield": "4 servings",
-  "recipeIngredient": [
-    "150 g  Cauliflower (3-cm florets)",      
-    "50 g  Maida (all-purpose flour)",       
-    "3 g  Salt",                            
-    "8 g  Sugar",                           
-    "1 pinch  Turmeric powder",                 
-    "1 pinch  Kaalo jeere (nigella seeds)",     
-    "2 g  Posto (poppy seeds)",             
-    "1 piece  green chilli (finely chopped)",   
-    "5 g  Mustard oil",                     
-    "75 g  Water",                           
-    "~ 250 g  Vegetable oil (for deep-frying)"
-  ],
-  "recipeInstructions": [
-    "1. Divide the cauliflower into florets, 3 cm large, and transfer them to a saucepan.",
-    "2. Add hot water to the pan and steam the florets, with the lid on, for 3 minutes. Remember, we don’t want to cook the cauliflower completely at this stage. The florets will be deep-fried later; we just want to give them a head-start. Three minutes of steaming should do the trick.",
-    "3. Drain the florets immediately and set aside to cool.",
-    "4. Meanwhile, prepare a batter by mixing flour, salt, sugar, turmeric, kaalo jeere, posto, green chilli, mustard oil, and water in the given proportions.",
-    "5. Mix the batter till well combined.",
-    "6. Set a kadai on the stove and heat it up (200 degree C). Add vegetable oil to the pan, at least 4 cm deep.",
-    "7. On medium flame, allow the oil to heat up completely. You can check by dropping some batter into the oil, and if it floats to the top immediately, with bubbles all around it, the oil is good to go.",
-    "8. Dunk the steamed cauliflower florets into the batter one at a time and coat them well.",
-    "9. Gently drop them into the oil. You can fry about 4 to 8 florets at a time, depending on the size of your pan. But be sure not to overcrowd the pan, or the florets won’t fry evenly from all sides.",
-    "10. Turning them over occasionally, fry the fritters till they are golden-brown.",
-    "11. Once done, remove them from the oil with the help of a perforated spoon. The best way to drain oil is by holding the boras against the side of the hot pan for about 20 seconds.",
-    "12. Sprinkle with some rock salt (beet noon) and serve immediately."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -483,7 +363,7 @@
     <link href="https://bongeats.com/recipe/bhaja-moong-dal-shobji-diye/"/>
     <id>https://bongeats.com/recipe/bhaja-moong-dal-shobji-diye/</id>
     <published>2017-02-02T17:00:00.000Z</published>
-    <updated>2017-02-05T04:09:24.847Z</updated>
+    <updated>2017-03-02T08:38:18.587Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">Roasted dehulled moong dal with fresh, winter veggies</p>
 
@@ -616,60 +496,6 @@
 <li><a href="/how-to/cook-the-perfect-rice/">Rice</a></li>
 <li><a href="/tags/torkari/">Torkari</a> | <a href="/tags/bhaja/">bhaja</a> | <a href="/recipe/alu-sheddho/">alu sheddho</a></li>
 </ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Bhaja Moong Dal Shobji diye",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1486085841/thumbnail-small-bhaja-moong-dal_l0srb1.jpg",
-  "description": "Roasted moong dal with fresh, winter veggies",
-  "prepTime": "PT15M",
-  "totalTime": "PT40M",
-  "recipeYield": "4 servings",
-  "recipeIngredient": [
-    "100 g   Moong dal (split gram)",
-    "550 g   Water (for boiling dal)",
-    "10 g   Mustard oil",     
-    "1 piece   Dried red chilli (whole)",
-    "1 piece   Bay leaf (whole)",                   
-    "1 piece   Cardamom (whole)",                   
-    "1 piece   Cinnamon (whole)",                   
-    "1 piece   Clove (whole)",                      
-    "¼ tsp   Cumin seeds",                        
-    "2 pieces   Green chillies (slit)",              
-    "25 g   Carrots (1-cm cubes)",               
-    "25 g   Cauliflower (2-cm florets)",         
-    "15 g   Tomatoes (roughly chopped)",         
-    "15 g   Peas (shelled)",                     
-    "7 g   Salt",                               
-    "15 g   Sugar",                              
-    "¼ tsp   Turmeric powder",                    
-    "10 g   Coriander leaves (finely chopped)",  
-    "¼ tsp   Garam masala powder",                
-    "5 g   Ghee"
-  ],
-  "recipeInstructions": [
-    "1. Weigh out the dal and add it to a dry pot (preferably a kadai or wok), set on medium heat.",
-    "2. Dry-roast the dal, stirring continuously, till it changes colour from yellow to a pinkish brown. Here, it is important to keep the dal moving while it is in the pan to ensure that all surfaces of the grains roast evenly. Be particularly alert once the dal has taken on a light, brown colour, as it is during this stage that the dal has the tendency to burn easily.",
-    "3. Transfer the roasted dal into a boiling pot immediately (do not hold it in the hot pan, as it will continue to brown when kept in contact with heat).",
-    "4. Wash and rinse the dal thoroughly.",
-    "5. Add 550 g water to the washed dal.",
-    "6. Boil it on medium heat for about 20 minutes. While we want the dal to be completely cooked, we still want the individual grains to remain unbroken. So, check frequently to ensure that the dal doesn’t turn into mush and lose its texture.",
-    "7. Chop the cauliflower into 2-cm florets, the carrot into 1-cm cubes, and the tomatoes roughly. Shell the peas and slit the green chillies.",
-    "8. Heat up the kadai once more and add 10 g mustard oil.",
-    "9. Once the oil has smoked lightly and lost its pungent smell, temper it with the dried red chilli, bay leaf, cardamom, cinnamon, clove, cumin seeds, and 1 green chilli.",
-    "10. Add the carrots and stir-fry them for 1 minute.",
-    "11. Next, add the cauliflower florets and fry them for another minute.",
-    "12. Add the tomatoes and peas, one at a time, and fry them for a minute after each addition.",
-    "13. Pour in the roasted, boiled dal with its water.",
-    "14. Add the salt, sugar and turmeric, and stir them in.",
-    "15. Allow the dal to bubble for about 6 minutes on low heat. Don’t increase the heat level or the liquid in the dal may dry up.",
-    "16. Garnish with chopped coriander leaves, a slit green chilli, garam masala powder, and ghee.",
-    "17. Cover the pan with a lid and allow the dal to soak up the flavours from the garnish before serving."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -696,7 +522,7 @@
     <link href="https://bongeats.com/recipe/panchmishali-torkari/"/>
     <id>https://bongeats.com/recipe/panchmishali-torkari/</id>
     <published>2017-01-26T17:00:00.000Z</published>
-    <updated>2017-02-05T04:49:01.887Z</updated>
+    <updated>2017-03-02T08:46:28.834Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">Simple Bengali mixed veggies with <em>panch phoron</em> tempering</p>
 
@@ -855,61 +681,6 @@
 <li><a href="/tags/dal/">Dal</a></li>
 <li><a href="/how-to/cook-the-perfect-rice/">Rice</a> | Roti</li>
 </ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Panchmishali Torkari",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1485389957/thumbnail-small-panchmishalitorkari_pexgac.jpg",
-  "description": "Panchmishali torkari is any Bengali mixed-vegetable preparation, in which the vegetables are first stir-fried and then steamed in their own juices till they are tender and well-integrated.",
-  "prepTime": "PT20M",
-  "totalTime": "PT60M",
-  "recipeYield": "5 servings",
-  "recipeIngredient": [
-    "40 g  Mustard oil",
-    "2 pieces  Bay leaves (whole)",
-    "2 pieces  Dried red chillies (whole)",
-    "1 piece  Green chilli (slit)",
-    "1 tsp  Panch phoron",
-    "100 g  Brinjals (5-cm cubes)",
-    "200 g  Potatoes (4-cm cubes)",
-    "100 g  Sweet potatoes (4-cm cubes)",
-    "200 g  Pumpkin (4-cm cubes)",
-    "200 g  Cauliflower (5-cm florets)",
-    "100 g  Borboti or yardlong beans (5-cm segments)",
-    "100 g  Cabbage (5-cm segments)",
-    "½ tsp  Turmeric powder",
-    "12 g  Salt",
-    "25 g  Sugar",
-    "2 pieces  Green chillies (slit)",
-    "10 g  Coriander leaves (chopped)",
-    "½ tsp  Bhaja masala",
-    "5 g  Ghee"
-  ],
-  "recipeInstructions": [
-    "1. Peel and cut the potatoes, sweet potatoes, and pumpkin in 4 cm cubes.",
-    "2. Divide the borboti, brinjal, and cabbage in segments of 5 cm each.",
-    "3. Cut the cauliflower in florets, 5 cm large.",
-    "4. In order to cook panchmishali torkari, the vegetables are stir-fried, and the order in which they are added to the pan depends upon their hardness. So, the potatoes and sweet potatoes, which are the hardest of all the veggies, are the first to enter the pan, followed by pumpkin, cauliflower, borboti, and cabbage. We deal with the brinjals separately, as explained in the next step.",
-    "5. Heat mustard oil in a pan till it starts to smoke lightly and the pungent smell is gone.",
-    "6. Keeping the pan on medium heat, add in the brinjals and fry them for about 3 minutes till they are golden.",
-    "7. Remove them from pan and reserve for later use. Frying the brinjals separately enhances their flavour.",
-    "8. Now, in the same oil, add the tempering of dried red chillies, bay leaves, green chilli, and panch phoron. Panch phoron is a mix of the following whole spices in equal proportion: fenugreek seeds (methi), fennel seeds (mouri), mustard seeds (shorshe), nigella seeds (kaalo jeere), and a typically Bengali spice called radhuni.",
-    "9. Once the spices start to crackle, add in the potatoes and sweet potatoes to the oil.",
-    "10. Fry these for about 3 minutes before introducing the next vegetable, that is, pumpkin.",
-    "11. Fry the pumpkin, sweet potatoes, and potatoes together for another 3 minutes before adding the cauliflower. Basically, at intervals of 3 minutes, we add the next vegetable and stir-fry it together with the veggies already in the pan.",
-    "12. Once the cauliflower is fried, add the borboti, and then, after 3 minutes, the cabbage.",
-    "13. Once all the veggies have been fried, add in the salt and turmeric, and stir them in.",
-    "14. At this point, lower the heat and cover up the pan. The salt will help release the moisture from the vegetables, and gently steaming them with the lid on will help soften them up.",
-    "15. Cook the vegetables like this for about 15 minutes. Stir occasionally to prevent them from sticking to the bottom of the pan. While doing so, be gentle, as the we don’t want the vegetables to turn into mush. (Always use a folding motion to stir the veggies around.)",
-    "16. After 15 minutes, add the sugar and the fried brinjals, and cover and cook for another 10 minutes or so, stirring occasionally.",
-    "17. You will know that the torkari is done when the vegetables are completely tender and have integrated themselves into the dish, but still have the integrity to not fall apart to the touch.",
-    "18. At this point, garnish with the chopped coriander leaves, green chillies, bhaja masala, and ghee.",
-    "19. Turn off the heat, cover the pan, and allow it to rest for 2 minutes before serving."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -934,7 +705,7 @@
     <link href="https://bongeats.com/recipe/koi-machher-jhol-phulkopi-diye/"/>
     <id>https://bongeats.com/recipe/koi-machher-jhol-phulkopi-diye/</id>
     <published>2017-01-19T17:00:00.000Z</published>
-    <updated>2017-02-05T04:33:34.520Z</updated>
+    <updated>2017-03-02T08:43:41.089Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">Everyone’s favourite <em>machh’er jhol</em> for the winter months</p>
 
@@ -1082,68 +853,6 @@
 <h2 id="Served-with"><a href="#Served-with" class="headerlink" title="Served with"></a>Served with</h2><ul>
 <li><a href="/how-to/cook-the-perfect-rice/">Rice</a></li>
 </ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Koi Machh'er Jhol Phulkopi diye",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1484875490/thumbnail-small-koi-phulkopi_kb0bll.jpg",
-  "description": "This is a light Bengali fish curry of the climbing perch (_koi machh_) and fried cauliflower florets.",
-  "prepTime": "PT20M",
-  "totalTime": "PT40M",
-  "recipeYield": "5 servings",
-  "recipeIngredient": [
-    "30 g  Mustard oil (for frying)",
-    "10 g  Mustard oil (for cooking)",
-    "350 g (or 5 pieces)  Koi machh (climbing perch fish)",
-    "150 g (or 5 pieces)  Cauliflower (5-cm florets)",
-    "100 g (or 5 pieces)  Potatoes (cut lengthwise)",
-    "10 pieces  Dal’er bori",
-    "20 g  Tomato (3-cm quarters)",
-    "¼ tsp  Cumin seeds (whole)",
-    "2 pcs  Cardamom (whole)",
-    "1 piece  Cinnamon (whole)",
-    "1 piece  Bay leaf",
-    "4 pieces  Green chillies (slit)",
-    "7 g  Ginger paste",
-    "15 g  Cumin powder",
-    "4 g (plus ¾ tsp for marinating)  Turmeric powder",
-    "1 g  Red chilli powder",
-    "18 g (plus ¾ tsp for marinating)  Salt",
-    "15 g  Sugar",
-    "350 g  Water (hot)",
-    "6 g  Coriander leaves (finely chopped)"
-  ],
-  "recipeInstructions": [
-    "1. Smear the koi machh with ¾ tsp each of salt and turmeric till they are evenly coated. Set them aside.",
-    "2. Cut a cauliflower into chunky florets, about 5 cm large. Take as many florets as there are pieces of fish (in this case, five).",
-    "3. Peel and cut the potatoes lengthwise. Again, we need as many pieces of potatoes as there are fish.",
-    "4. Chop the tomato into quarters.",
-    "5. Heat a kadai till it is completely hot. Drizzle 30 g mustard oil into the pan till it starts smoking lightly, and changes colour from deep to pale yellow.",
-    "6. Add all the dal’er bori into the oil and fry them till they are golden. This should take about 15–20 seconds.",
-    "7. Remove the fried bori from the pan and set aside.",
-    "8. Now, add the cauliflower florets, along with ¼ tsp of salt, to the pan and fry them till they develop a light-brown colour. This should take about 4 minutes in all.",
-    "9. Remove the cauliflower from the pan and set aside.",
-    "10. Finally, add the marinated koi machh to the same oil, one at a time, and fry them for no longer than a minute on each side. Freshwater fish such as the koi benefit from a light fry, rather than a crusty one. So be sure not to sear the fish too much.",
-    "11. Remove the fish from the pan and set aside.",
-    "12. You now have fried bori, fried cauliflower, and fried fish ready for use at a later stage, and can now move on to the preparation of the curry.",
-    "13. At this point, inspect the oil in your pan. If it looks too burnt, replace it with 10 g of fresh mustard oil. If it is alright, use the same oil to cook the curry in as it contains all the flavour from the fried fish.",
-    "14. Temper the oil, set on medium heat, with the bay leaf, cardamom, cinnamon, cumin seeds, and 2 slit green chillies.",
-    "15. Add the potatoes to the pan and fry them, with the lid on, for 4 minutes.",
-    "16. While the potatoes are frying, make a paste by combining cumin powder, turmeric powder, red chilli powder, salt, sugar, and 50 g water.",
-    "17. Add this mixture into the pan and fry it, with lid on, till the water dries up.",
-    "18. Now, add in the ginger paste and tomatoes, and incorporate them with the spices. Introduce another 50 g water to the pan and sauté the spices again till the water dries off.",
-    "19. The key here is to cover and cook because, alongside sautéing the spices, we also want to allow time for the potatoes to become tender.",
-    "20. Add in the fried cauliflower florets, fold them into the spices, and cook them for a minute or so.",
-    "21. Now, add 350 g of hot water to the pan. This will form the curry.",
-    "22. Once it comes to a boil, add in the fried bori, fried fish, and two (more) of the slit green chillies.",
-    "23. Using a spoon, gently try and submerge the fish in the curry. Be delicate as the fish is quite fragile at this stage.",
-    "24. Cover the pan and allow the curry to simmer for about 6 minutes.",
-    "25. Chop fresh coriander and add it to the pan. Let it simmer in the curry for another minute before turning off the heat."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -1170,7 +879,7 @@
     <link href="https://bongeats.com/recipe/patishapta-with-kheer-filling/"/>
     <id>https://bongeats.com/recipe/patishapta-with-kheer-filling/</id>
     <published>2017-01-12T17:00:00.000Z</published>
-    <updated>2017-02-10T03:02:46.385Z</updated>
+    <updated>2017-03-02T08:46:48.187Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">A thin, delicate crêpe filled with sweetened, reduced milk or <em>kheer</em></p>
 
@@ -1288,55 +997,6 @@
 <li>Place it at one end of the crêpe and start folding the crêpe into a roll, with the help of a spatula. [Note that we are cooking only one side of the crêpe.]</li>
 <li>Transfer the <em>patishapta</em> from the pan to a plate and proceed making the rest. These can be eaten hot, or they can be cooled and stored in the refrigerator for up to 7 days.</li>
 </ol>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Patishapta (with kheer filling)",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1484275153/thumbnail-small-patishapta_s07tne.jpg",
-  "description": "A thin, delicate crêpe filled with sweetened, reduced milk or _kheer_",
-  "prepTime": "PT150M",
-  "totalTime": "PT30M",
-  "recipeYield": "17 patishaptas",
-  "recipeIngredient": [
-    "75 g  Maida (flour)",
-    "30 g  Sooji (semolina)",
-    "10 g  Rice grains",
-    "280 g  Milk",
-    "¼ tsp  Salt",
-    "30 g  Sugar",
-    "5 g  Ghee (for greasing)",
-    "1.5 kg  Milk",
-    "65 g  Sugar",
-    "1 tsp  Maida (flour)"
-  ],
-  "recipeInstructions": [
-    "1. For the batter, add the rice grains to an electric grinder and blitz them to a fine powder. You now have rice flour.",
-    "2. In a mixing bowl, add the _maida_ (75 g), _sooji_ (30 g), rice flour (10 g), sugar (30 g), salt (¼ tsp), and milk (280 g).",
-    "3. Mix the ingredients together till they are more or less combined. Do not over-mix or your crêpes may turn out chewy.",
-    "4. Cover the batter and set it aside to rest, for 2 hours. This will allow time for the _sooji_ to swell up and the sugar to melt.",
-    "5. While your batter is resting, use this time to prepare the _kheer_, which will form the filling for our _patishapta_.",
-    "6. For the kheer, take 1.5 kg milk in a heavy-bottom saucepan and set it to boil.",
-    "7. Once bubbling, stir in 65 g sugar.",
-    "8. Keep boiling the milk, while stirring it continuously, for about 90 minutes.",
-    "9. During this entire time, the pot should be on medium to low heat.",
-    "10. At regular intervals of 3–4 minutes, be sure to scrape the fat from the bottom and sides of the pot, and incorporate it into the boiling milk. This step, as well as the previous one, is crucial. We don’t want our _kheer_ to burn at any point.",
-    "11. Once the milk has thickened such that when you lift some of it on your spoon and drop it, it falls in clumps, make a paste of 1 tsp flour and 1 tbsp milk.",
-    "12. Add this paste to the pot. Stir and cook for another 5 minutes.",
-    "13. Allow the _kheer_ to cool before proceeding to the next stage.",
-    "14. Divide the _kheer_ in equal portions of 22 g each.",
-    "15. Give your batter a quick stir till it is uniform.",
-    "16. Now, set a non-stick pan on medium-low flame and allow it to heat up completely.",
-    "17. Once the pan is hot, smear it with a very, _very_ light coating of _ghee_ (remember, we are already using a non-stick pan).",
-    "18. Using a ladle, take about 25 g of the batter and drop it in the centre of the pan.",
-    "19. Swirl it around gradually to form a thin crêpe, about 12 cm in diameter.",
-    "20. Roll a portion of the _kheer_ between your palms to form a log (about 8 cm long), and flatten it with your fingers.",
-    "21. Place it at one end of the crêpe and start folding the crêpe into a roll, with the help of a spatula. [Note that we are cooking only one side of the crêpe.]",
-    "22. Transfer the _patishapta_ from the pan to a plate and proceed making the rest. These can be eaten hot, or they can be cooled and stored in the refrigerator for up to 7 days."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -1361,7 +1021,7 @@
     <link href="https://bongeats.com/recipe/doodh-cha/"/>
     <id>https://bongeats.com/recipe/doodh-cha/</id>
     <published>2017-01-05T17:00:00.000Z</published>
-    <updated>2017-02-05T04:29:04.593Z</updated>
+    <updated>2017-03-02T08:42:22.534Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">A sweet, milky, aromatic concoction steeped with orange pekoe tea</p>
 
@@ -1431,37 +1091,6 @@
 <li>Biscuits | rusk</li>
 <li>Evening snack</li>
 </ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Doodh Cha",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1481780300/doodh-cha-thumbnail-small_csecpb.jpg",
-  "description": "A sweet, milky, aromatic concoction steeped with orange pekoe tea",
-  "prepTime": "PT10M",
-  "totalTime": "PT20M",
-  "recipeYield": "2 mugs",
-  "recipeIngredient": [
-    "300 g  Milk",
-    "300 g Water",
-    "8 g Ginger",
-    "1 piece Clove",
-    "1 piece Cardamom",
-    "25 g  Sugar",
-    "8 g Orange pekoe tea"
-  ],
-  "recipeInstructions": [
-    "1. Using a mortar and pestle, roughly crush the clove and cardamom pod. This will help release their flavours.",
-    "2. Wash, peel, and dice the ginger roughly.",
-    "3. Set a saucepan over medium-high heat and add the water, clove, cardamom, and ginger.",
-    "4. Cover the pan and let the water come to a boil. Allow the spices to bubble in water for about 4 minutes.",
-    "5. Add the milk, and once it has heated up, add in the tea and sugar.",
-    "6. Allow this milky concoction to boil vigorously. Just when the tea is about to boil over, drop the heat and let it simmer for about 4 minutes. You can see the tea change colour from light brown to a rosy kind of orange.",
-    "7. Strain and serve immediately."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -1484,7 +1113,7 @@
     <link href="https://bongeats.com/recipe/begun-bhaja/"/>
     <id>https://bongeats.com/recipe/begun-bhaja/</id>
     <published>2016-12-29T17:00:00.000Z</published>
-    <updated>2017-02-10T02:56:45.761Z</updated>
+    <updated>2017-03-02T08:36:57.199Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">The goodness of perfectly seasoned, pan-fried brinjals</p>
 
@@ -1555,37 +1184,6 @@
 <li><a href="/tags/dal/">Dal</a></li>
 <li><a href="/how-to/cook-the-perfect-rice/">Rice</a> | <em>luchi</em></li>
 </ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Begun Bhaja",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1481780296/begun-bhaja-thumbnail-small_dwcxsu.jpg",
-  "description": "This is a recipe of brinjal fried to the an amber-coloured crisp on the outside, while remaining soft and mushy inside.",
-  "prepTime": "PT5M",
-  "totalTime": "PT20M",
-  "recipeYield": "6 slices of begun bhaja",
-  "recipeIngredient": [
-    "Large brinjal  1 piece",
-    "Turmeric powder ¼ tsp",
-    "Red chilli powder a pinch",
-    "Salt  ¾ tsp",
-    "Sugar 1½ tsp",
-    "Flour (atta)  ¾ tsp",
-    "Mustard oil (for frying)  80 g"
-  ],
-  "recipeInstructions": [
-    "1. Wash the brinjal and chop off its stalk. Cut the vegetable along the cross-section into discs, 2 cm thick. A large brinjal should yield about 6 slices.",
-    "2. In a mixing bowl, combine the turmeric powder, red chilli powder, salt, sugar, and atta.",
-    "3. Add the brinjal slices to the bowl and coat them with the spices.",
-    "4. Cover and let them rest for at least 15 minutes. During this time, the salt and sugar will draw out the water from the brinjal slices and soften them up. The moisture generated will also help all the flavours mingle nicely. So, don’t skip this step",
-    "5. Now, heat mustard oil in a skillet till it starts smoking lightly. For even frying, the depth of the mustard oil in the pan should be at least 1 cm.",
-    "6. Lower the marinated brinjal slices into the oil one by one and fry them on each side, for about 3 minutes, till they are golden. Make sure that the pan is set on medium-low heat; we want to cook the brinjal slices from the inside while allowing them to develop a nice crust on the outside. Also, keep a close eye on the pan, as the sugar in the marinade may burn.",
-    "7. When golden, lift the begun bhaja from the oil. Hold them against the side of the pan for about 20 seconds to drain out excess oil, or use paper towels to soak it up. Serve hot."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -1610,7 +1208,7 @@
     <link href="https://bongeats.com/recipe/jhinge-alu-posto/"/>
     <id>https://bongeats.com/recipe/jhinge-alu-posto/</id>
     <published>2016-12-22T17:00:00.000Z</published>
-    <updated>2017-02-05T04:31:09.864Z</updated>
+    <updated>2017-03-02T08:42:44.339Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">Potatoes and ridged gourd cooked in a poppy paste</p>
 
@@ -1696,44 +1294,6 @@
 <li><a href="/tags/dal/">Dal</a></li>
 <li><a href="/how-to/cook-the-perfect-rice/">Rice</a> | roti</li>
 </ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Jhinge Alu Posto",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1481780300/jhinge-alu-posto-thumbnail-small_qcfwl0.jpg",
-  "description": "Potatoes and ridged gourd cooked in a poppy paste",
-  "prepTime": "PT10M",
-  "totalTime": "PT40M",
-  "recipeYield": "4",
-  "recipeIngredient": [
-    "Poppy seeds (soaked in hot water for at least 4 hours) 15 g",
-    "Green chillies (2 for the paste + 2 for phoron) 4 pieces",
-    "Onions (cubed)  40 g",
-    "Oil 25 g",
-    "Kalo jeere  ¼ tsp",
-    "Potatoes (2 cm cubes) 300 g",
-    "Jhinge (2 cm cubes) 250 g",
-    "Salt  10 g",
-    "Sugar 8 g",
-    "Warm water  125 g"
-  ],
-  "recipeInstructions": [
-    "1. Soak the poppy seeds in hot water for at least 4 hours. You can also soak them overnight in water at room temperature.",
-    "2. Drain the water and place the poppy seeds in a small grinder jar, along with 2 green chillies and cubed onions.",
-    "3. Grind these to a smooth paste, using about 50 g of water. The finer the grind, the better the flavour. So take your time with this step. Once done, set the poppy paste aside.",
-    "4. Heat 25 g vegetable oil in a pan. We don’t use mustard oil in this recipe.",
-    "5. Temper the oil with _kaalo jeere_ and 2 slit green chillies.",
-    "6. Once the spices start crackling, add in the cubed potatoes and fry them on medium heat for 4 minutes. The potatoes should not brown, but remain white. Stir them frequently.",
-    "7. Next, add in the _jhinge_. Fry them for another 4–5 minutes.",
-    "8. Now, add the poppy paste to the pan, along with the salt.",
-    "9. Sauté the vegetables in the poppy paste for around 5–7 minutes. Keep the heat on low and stir often to prevent the paste from sticking to the pan.",
-    "10. Once the poppy paste starts releasing a nutty aroma, add 125 g of hot water along with the sugar.",
-    "11. Let simmer on low heat for another 8–10 minutes, till the potatoes are tender and the gravy has thickened."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -1760,7 +1320,7 @@
     <link href="https://bongeats.com/how-to/cook-the-perfect-rice/"/>
     <id>https://bongeats.com/how-to/cook-the-perfect-rice/</id>
     <published>2016-12-15T17:00:00.000Z</published>
-    <updated>2017-02-05T04:18:49.665Z</updated>
+    <updated>2017-03-02T08:41:36.983Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">A simple technique for that much-yearned-for <em>jhurjhure bhaat</em></p>
 
@@ -1810,45 +1370,6 @@
 <li>Cook the rice till it is just done. Check by lifting a grain between your fingers and mashing it gently. Do not overcook if you want the rice grains to remain firm and separate.</li>
 <li>Strain immediately over a colander and allow the water to drain off completely before serving.   </li>
 </ol>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "recipe",
-  "name": "How to Cook the Perfect Rice",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1481780294/bhaat-thumbnail-small_ll5eta.jpg",
-  "description": "In this tutorial, we show you how you can cook the perfect, fluffy, non-sticky rice on an everyday basis to go along with your dal, torkari, or mangsher jhol for the day.",
-  "prepTime": "PT05M",
-  "totalTime": "PT30M",
-  "recipeYield": "2",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "servingSize": "2 servings",
-    "calories": "206 calories",
-    "fatContent": "0.4 g",
-    "carbohydrateContent": "45 g",
-    "cholesterolContent": "0 mg",
-    "fiberContent": "0.6 g",
-    "proteinContent": "4.3 g",
-    "saturatedFatContent": "0.1 g",
-    "sodiumContent": "1.6 mg",
-    "sugarContent": "0.1 g"
-  },
-  "recipeIngredient": [
-    "Rice",
-    "Water",
-    "Vinegar or fitkari (alum)"
-  ],
-  "recipeInstructions": [
-    "1. Measure out the rice and place it in a boiling vessel.",
-    "2. Fill the pot with water and wash the rice thoroughly to remove dirt and any excess starch. Rinse and repeat this process till the water runs clear.",
-    "3. Fill the pot with water once again and set it to boil, with the lid on. Rice is a starch that loves water. Be sure to boil it in sufficient water (at least 5 parts water to 1 part rice) if you want your rice to not be sticky.",
-    "4. For fluffy, pearly-white rice, you may also add 1 tbsp of vinegar or 1 tsp of fitkari (alum) to the pot.",
-    "5. Cook the rice till it is just done. Check by lifting a grain between your fingers and mashing it gently. Do not overcook if you want the rice grains to remain firm and separate.",
-    "6. Strain immediately over a colander and allow the water to drain off completely before serving."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -1860,11 +1381,11 @@
       <category term="how to" scheme="https://bongeats.com/categories/how-to/"/>
     
     
+      <category term="Rice" scheme="https://bongeats.com/tags/Rice/"/>
+    
       <category term="kitchen hacks" scheme="https://bongeats.com/tags/kitchen-hacks/"/>
     
       <category term="how-to" scheme="https://bongeats.com/tags/how-to/"/>
-    
-      <category term="Rice" scheme="https://bongeats.com/tags/Rice/"/>
     
   </entry>
   
@@ -1873,7 +1394,7 @@
     <link href="https://bongeats.com/recipe/mughlai-porota/"/>
     <id>https://bongeats.com/recipe/mughlai-porota/</id>
     <published>2016-12-09T06:30:00.000Z</published>
-    <updated>2017-02-10T03:00:56.333Z</updated>
+    <updated>2017-03-02T08:44:55.700Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">A layered, deep-fried pastry filled with egg and minced meat</p>
 
@@ -2015,52 +1536,6 @@
 <li>Cabin-style salad</li>
 <li>Ketchup</li>
 </ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Mughlai Porota",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1479339210/moghlai-porota_cover-small_decg0b.jpg",
-  "description": "Making mughlai porota at home may seem like a daunting task. And we won't lie, it does require a fair bit of planning. But for the mughlai porota aficionado, the pay-offs are enormous!",
-  "prepTime": "PT30M",
-  "totalTime": "PT60M",
-  "recipeYield": "1 porota",
-  "recipeIngredient": [
-    "Flour    75 g",
-    "Salt    1 g",
-    "Sugar    1 g",
-    "Oil    5 g",
-    "Water    40 g",
-    "Egg    1 piece",
-    "Keema    20 g",
-    "Onions    10 g",
-    "Green chillies    2 g",
-    "Ginger    2 g",
-    "Coriander    3 g",
-    "Peanuts    5 g",
-    "Bread crumbs    10 g",
-    "Salt    2 g"
-  ],
-  "recipeInstructions": [
-    "1. Place the flour, salt, sugar, and 5 g oil in a mixing bowl, and distribute the ingredients evenly.",
-    "2. Add 40 g warm water to the bowl and knead the dough for 5 minutes.",
-    "3. Coat the dough with 2 tablespoons of oil, cover the bowl, and set aside for 30 minutes.",
-    "4. Finely chop the onions, ginger, green chillies, and fresh coriander.",
-    "5. Toast the peanuts in a pan till they are lightly coloured, and chop them roughly.",
-    "6. Now, crack an egg in a bowl. Add in the cooked _keema_, onions, ginger, green chillies, coriander, peanuts, breads crumbs, and salt.",
-    "7. Beat till all the ingredients are well combined.",
-    "8. Oil your rolling surface and rolling pin.",
-    "9. Place the dough on the surface and start rolling into a thin, rectangular sheet, about 2 mm thick, and 30 cm by 40 cm in dimension.",
-    "10. In a frying pan, set over medium heat, pour vegetable oil till it reaches a height of about 3 cm from the bottom of the pan.",
-    "11. While the oil is heating up, place the filling in the centre of the rolled dough.",
-    "12. Form an envelope by folding the sides of the rolled sheet inward, starting with the longer sides. Press down gently to seal.",
-    "13. Now, fold the shorter sides such that the you have a pocket of filling, securely enclosed within the pastry sheet.",
-    "14. Lower the _mughlai_ into the hot oil and fry on both sides till golden brown. Occasionally pat it down with the frying spoon to make sure that the filling is cooked thoroughly.",
-    "15. Remove the _mughlai porota_ from the oil and place it on a chopping board. Let it rest for a while. The residual heat will cook the egg to perfect doneness. Cut it into square segments and serve while still warm."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -2087,7 +1562,7 @@
     <link href="https://bongeats.com/recipe/badhakopir-ghonto/"/>
     <id>https://bongeats.com/recipe/badhakopir-ghonto/</id>
     <published>2016-12-02T04:30:00.000Z</published>
-    <updated>2017-02-10T02:56:10.017Z</updated>
+    <updated>2017-03-02T08:36:22.613Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">A dry curry of cabbage</p>
 
@@ -2236,61 +1711,6 @@
 <li><a href="/tags/dal/">Dal</a></li>
 <li><a href="/how-to/cook-the-perfect-rice/">Rice</a> | roti</li>
 </ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Badhakopi'r ghonto",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1479339208/badhakopir-ghonto_cover-small_uif59l.jpg",
-  "description": "This is a beautifully spiced cabbage and peas preparation that is hot, sweet, and with hints of ginger, ghee, and garam masala.",
-  "prepTime": "PT10M",
-  "totalTime": "PT45M",
-  "recipeYield": "4",
-  "recipeIngredient": [
-    "Mustard oil (for cooking) 15 g",
-    "Dried red chillies 1 piece",
-    "Bay leaves 1 piece",
-    "Cardamom 1 piece",
-    "Cloves 1 piece",
-    "Cinnamon 1 piece",
-    "Cumin seeds 2 g (or ¼ tsp)",
-    "Cabbage 400 g",
-    "Potatoes 100 g",
-    "Peas 50 g",
-    "Tomatoes 30 g",
-    "Prawns (optional) 75 g",
-    "Ginger paste 20 g",
-    "Cumin powder 2 g",
-    "Coriander powder 1 g",
-    "Turmeric powder 3 g",
-    "Red chilli powder 1 g",
-    "Salt 10 g",
-    "Sugar 25 g",
-    "Ghee 4 g",
-    "Garam masala ¼ tsp",
-    "Green chillies 2 g (or 2 pieces)"
-  ],
-  "recipeInstructions": [
-    "1 Cut the cabbage into the thinnest possible shreds that you can manage. To make this process easier, deal with the vegetable in sections. Take out a 4cm-thick slice from the head of the cabbage and use your knife to shave off the shreds from the cross-section. The finer you cut the cabbage, the better. So, take your time at this stage.",
-    "2 Heat 15g mustard oil in the pan.",
-    "3 Add the phoron to the oil.",
-    "4 Once the spices start crackling, add the cubed potatoes.",
-    "5 Fry the potatoes for 3 minutes on low heat, with the lid on.",
-    "6 Add 80g of water to the ginger paste, cumin powder, coriander powder, turmeric powder, and red chilli powder.",
-    "7 Add this mixture to the potatoes and cook on medium heat till the water dries off.",
-    "8 Add the diced tomatoes.",
-    "9 Then, add another 80g of water and cook till the water dries off.",
-    "10 Add the peas and a green chilli and cook with the lid on for a minute.",
-    "11 Add the shredded cabbage to the pan, along with the salt.",
-    "12 Fold in the spices and cook with the lid on. The salt we just added will start dehydrating the cabbage and drawing out its favours. We need this water to turn to steam and cook the cabbage, so it’s important to keep the lid on.",
-    "13 Cook the cabbage on low heat, with the lid on, for 12 minutes, stirring intermittently. Keep an eye on the pan so that the cabbage doesn’t stick to the bottom.",
-    "14 Add the sugar and cook for another 15 minutes, stirring intermittently. The sugar will start to caramelise. So, be sure to scrape the browned bits of the torkari that stick to the bottom of your pan.",
-    "15 If adding the prawns: (a) Marinate them in ¼ tsp each of salt and turmeric powder; (b) Fry them in a separate pan for 30 seconds on each side; (c) Chop them up in 1-cm-small pieces; and (d) Add these to the torkari.",
-    "16 Garnish with ghee, powdered garam masala, and a green chilli."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -2321,7 +1741,7 @@
     <link href="https://bongeats.com/recipe/bengali-garam-masala/"/>
     <id>https://bongeats.com/recipe/bengali-garam-masala/</id>
     <published>2016-11-25T04:30:00.000Z</published>
-    <updated>2017-02-10T02:57:36.738Z</updated>
+    <updated>2017-03-02T08:37:41.556Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">A fragrant blend of three simple spices</p>
 
@@ -2370,31 +1790,6 @@
 <li>Add the toasted spices to a grinder and blitz them till you have a fine powder. You can also use a mortar and pestle to grind by hand.</li>
 <li>Store the <em>garam masala</em> powder in an airtight container.</li>
 </ol>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Bengali garam masala",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1479358970/bengali-garam-masala-cover-small_r61kr3.jpg",
-  "description": "The Bengali _garam masala_ contains just three simple ingredients.",
-  "prepTime": "PT5M",
-  "totalTime": "PT10M",
-  "recipeYield": "10 g",
-  "recipeIngredient": [
-    "Cardamom 7    g",
-    "Cloves 2    g",
-    "Cinnamon 2 g"
-  ],
-  "recipeInstructions": [
-    "1 Measure out the whole spices in the given proportion. You may lightly crush them with a pestle or rolling pin, if you like.",
-    "2 Heat a pan on medium-low and add the whole spices.",
-    "3 Dry-roast them evenly on all sides, stirring continuously. This should take about 5 minutes.",
-    "4 Add the toasted spices to a grinder and blitz them till you have a fine powder. You can also use a mortar and pestle.",
-    "5 Store the garam masala powder in an airtight container for up to 2 months."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -2406,13 +1801,13 @@
       <category term="recipe" scheme="https://bongeats.com/categories/recipe/"/>
     
     
-      <category term="masala" scheme="https://bongeats.com/tags/masala/"/>
-    
       <category term="vegetarian" scheme="https://bongeats.com/tags/vegetarian/"/>
     
       <category term="vegan" scheme="https://bongeats.com/tags/vegan/"/>
     
       <category term="gluten-free" scheme="https://bongeats.com/tags/gluten-free/"/>
+    
+      <category term="masala" scheme="https://bongeats.com/tags/masala/"/>
     
   </entry>
   
@@ -2421,7 +1816,7 @@
     <link href="https://bongeats.com/how-to/clean-and-devein-prawns/"/>
     <id>https://bongeats.com/how-to/clean-and-devein-prawns/</id>
     <published>2016-11-18T05:00:00.000Z</published>
-    <updated>2017-02-10T02:58:42.239Z</updated>
+    <updated>2017-03-02T08:41:15.093Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">A step-by-step guide to prepping your prawns</p>
 
@@ -2475,35 +1870,6 @@
 <li>You should now have a clean prawn, minus the shells and other pointy parts.</li>
 <li>This step is optional, but we don’t throw the scraps away. Place them in a pot of water and simmer for 30 minutes. Strain the liquid and you now have a shrimp stock. Freeze them in ice trays and use the stock cubes while making shrimp fried rice or <em>chingri malai curry</em> for instant flavour-boost.  </li>
 </ol>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "recipe",
-  "name": "How to clean and devein prawns",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1479339208/cleaning-chingri-cover-small_henyxp.jpg",
-  "description": "In this tutorial, we show you how to go about cleaning a batch of prawns. It's not as difficult as you imagine.",
-  "prepTime": "PT20M",
-  "totalTime": "PT20M",
-  "recipeIngredient": [
-    "Prawns",
-    "A pair of scissors",
-    "A dish or bag for scraps",
-    "A bowl or plate for clean prawns"
-  ],
-  "recipeInstructions": [
-    "1 Use your scissors and cut off the snout.",
-    "2 Next, snip off the eyes.",
-    "3 Now, gather all the walking legs (can be found under the head) and chop them off with the scissors.",
-    "4 Hold the prawn so that its head faces you, and with its convex side up. Cut through the shell along the spine of the prawn, from the head all the way to the tail.",
-    "5 You should now be able to peel off the shell. If it gets stuck anywhere, give it a tug and it should come loose easily.",
-    "6 Locate the vein along the spine of the prawn. You will find it on the same side where you cut through the shell.",
-    "7 Pull the vein out and discard it.",
-    "8 You should now have a clean prawn without the shells and other pointy parts. You can either cook them immediately, or store the rest in the freezer in a tiffin box or plastic bag for up to two weeks.",
-    "9 This step is optional: don't throw the scraps away. Place them in a pot of water and boil for 30 minutes. Strain the liquid and you now have a shrimp stock. Store it in the refrigerator and use it while making shrimp fried rice or chingri malai curry for added flavour."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -2530,7 +1896,7 @@
     <link href="https://bongeats.com/recipe/chingri-bhaape/"/>
     <id>https://bongeats.com/recipe/chingri-bhaape/</id>
     <published>2016-11-11T05:00:00.000Z</published>
-    <updated>2017-02-10T02:58:08.431Z</updated>
+    <updated>2017-03-02T08:38:58.283Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">Prawns steamed in a spicy mustard paste</p>
 
@@ -2617,43 +1983,6 @@
 <h2 id="Served-with"><a href="#Served-with" class="headerlink" title="Served with"></a>Served with</h2><ul>
 <li><a href="/how-to/cook-the-perfect-rice/">Rice</a></li>
 </ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Chingri bhaape",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/chingri-bhaape_thumbnail_small.jpg",
-  "description": "This is a potent curry of steamed prawns, not for the faint of heart.",
-  "prepTime": "PT25M",
-  "totalTime": "PT30M",
-  "recipeYield": "4",
-  "recipeIngredient": [
-    "Prawns 300 g (400 g before cleaning)",
-    "Mustard seeds 20 g",
-    "Coconut 20 g",
-    "Green chillies 4 pieces",
-    "Yoghurt 40 g",
-    "Turmeric powder 3 g",
-    "Salt 12 g",
-    "Sugar 15 g",
-    "Mustard oil 25 g"
-  ],
-  "recipeInstructions": [
-    "1 Soak the mustard seeds in water for at least 2 hours.",
-    "2 Shell and devein the prawns.",
-    "3 Drain the mustard seeds and add to a grinder jar, along with the salt and 3 green chillies.",
-    "4 Blitz into a fine paste with the help of 50g water. Open the lid, scrape down the sides, and grind again. Repeat this process till you have a fine paste.",
-    "5 Add the sugar, turmeric powder, and chopped coconut into the grinder and blitz again till the coconut breaks down.",
-    "6 Transfer this paste to a microwaveable bowl.",
-    "7 Add the yoghurt and mix together.",
-    "8 Add the prawns and fold in.",
-    "9 Top off with the mustard oil and a slit green chilli.",
-    "10 Cover the bowl with a plastic wrap.",
-    "11 Microwave for 5 minutes."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -2676,11 +2005,195 @@
   </entry>
   
   <entry>
+    <title>Alu Sheddho | Spicy Mashed Potato</title>
+    <link href="https://bongeats.com/recipe/alu-sheddho/"/>
+    <id>https://bongeats.com/recipe/alu-sheddho/</id>
+    <published>2016-07-29T04:39:47.000Z</published>
+    <updated>2017-03-02T08:35:52.528Z</updated>
+    
+    <content type="html"><![CDATA[<p class="post-byline">Boiled potatoes, flavoured with green chillies and a fat of your choice</p>
+
+<p class="post-intro">This is the Bengali version of the mashed potato in its most basic form. It is made up of just four simple ingredients.</p>
+
+<a id="more"></a>
+<p><span class="dropcap">T</span>his recipe yields balls of warm, fluffy, buttery mash that you can eat with steaming rice and dal. While there are any number of ways in which you can boil the potatoes, for this recipe, we’ve found that cooking potatoes in an open pot of boiling water will get you the best results. You don’t want the potatoes to absorb too much water while they are cooking, as usually happens in the pressure cooker. In an open pot, you can always stick a fork into the potatoes to check if they are tender. Peeling the potatoes before you add them to the pot is also useful. It eliminates the need to handle hot spuds while removing their skins.</p>
+<p>Our favourite way, however, to cook potatoes for this recipe is to put the halved or quartered pieces into the same pot of water as your rice. That way, your <em>alu sheddho</em> is ready at nearly the same time as your rice and there is one less pot to wash at the end of the meal.</p>
+
+<hr>
+<p><strong>COOKING TIME</strong> 20 minutes<br><strong>YIELDS</strong> 4 balls of <em>alu sheddho</em></p>
+<hr>
+<h2 id="Ingredients"><a href="#Ingredients" class="headerlink" title="Ingredients"></a>Ingredients</h2><table>
+<thead>
+<tr>
+<th style="text-align:right">Quantity</th>
+<th>Ingredient</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">340 g</td>
+<td>Potatoes (boiled)</td>
+</tr>
+<tr>
+<td style="text-align:right">2 pieces</td>
+<td>Green chillies (finely chopped)</td>
+</tr>
+<tr>
+<td style="text-align:right">12 g</td>
+<td>Ghee or butter or mustard oil (any one)</td>
+</tr>
+<tr>
+<td style="text-align:right">4 g</td>
+<td>Salt</td>
+</tr>
+</tbody>
+</table>
+<h2 id="Equipment"><a href="#Equipment" class="headerlink" title="Equipment"></a>Equipment</h2><ul>
+<li>Boiling pot</li>
+</ul>
+<h2 id="Appliances"><a href="#Appliances" class="headerlink" title="Appliances"></a>Appliances</h2><ul>
+<li>Stove</li>
+</ul>
+<h2 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h2><ol>
+<li>Peel the potatoes and cut them in quarters.</li>
+<li>Place the pieces in a pot of water and set them to boil.</li>
+<li>Cook the potatoes till they are tender. Use a fork or knife to check if they are done.</li>
+<li>Drain the water and transfer the boiled potatoes onto a plate or mixing dish.</li>
+<li>While they are still hot, mash the potatoes with a fork.</li>
+<li>Add the fat of your choice (ghee or butter or mustard oil), green chillies, and salt.</li>
+<li>Continue mashing with a fork or by hand till the mixture is smooth and lump-free.</li>
+<li>Form into balls and serve.</li>
+</ol>
+<h2 id="Served-with"><a href="#Served-with" class="headerlink" title="Served with"></a>Served with</h2><ul>
+<li><a href="/tags/dal/">Dal</a></li>
+<li><a href="/how-to/cook-the-perfect-rice/">Rice</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      The naughtier Indian cousin of the mashed potato-flavoured with ghee or mustard oil and green chllies-a tribute to Bengali love for aloo
+    
+    </summary>
+    
+      <category term="recipe" scheme="https://bongeats.com/categories/recipe/"/>
+    
+    
+      <category term="vegetarian" scheme="https://bongeats.com/tags/vegetarian/"/>
+    
+      <category term="vegan" scheme="https://bongeats.com/tags/vegan/"/>
+    
+      <category term="gluten-free" scheme="https://bongeats.com/tags/gluten-free/"/>
+    
+      <category term="boiled" scheme="https://bongeats.com/tags/boiled/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Narkol&#39;er Bora | Coconut fritters</title>
+    <link href="https://bongeats.com/recipe/narkoler-bora/"/>
+    <id>https://bongeats.com/recipe/narkoler-bora/</id>
+    <published>2016-07-29T04:39:47.000Z</published>
+    <updated>2017-03-02T08:45:16.421Z</updated>
+    
+    <content type="html"><![CDATA[<p class="post-byline">Delicately spiced coconut fritters</p>
+
+<p class="post-intro">Q: What’s better than freshly grated coconut?<br>A: Freshly grated coconut, mildly spiced, rolled into balls, and fried till golden brown and delicious.</p>
+
+<a id="more"></a>
+<p><span class="dropcap">T</span>hese coconut fritters are a great way to take your <em>bhaat-dal-bhaja</em> game to the next level. They also make for a ridiculously tasty snack.</p>
+<hr>
+<p><strong>COOKING TIME</strong> 20 minutes<br><strong>YIELDS</strong> 9 <em>boras</em></p>
+<hr>
+<h2 id="Ingredients"><a href="#Ingredients" class="headerlink" title="Ingredients"></a>Ingredients</h2><table>
+<thead>
+<tr>
+<th style="text-align:right">Quantity</th>
+<th>Ingredient</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">150 g</td>
+<td>Coconut (grated)</td>
+</tr>
+<tr>
+<td style="text-align:right">10 g</td>
+<td>Green chillies (finely chopped)</td>
+</tr>
+<tr>
+<td style="text-align:right">15 g</td>
+<td>Rice grains (ground to powder)</td>
+</tr>
+<tr>
+<td style="text-align:right">6 g</td>
+<td>Salt</td>
+</tr>
+<tr>
+<td style="text-align:right">25 g</td>
+<td>Sugar</td>
+</tr>
+<tr>
+<td style="text-align:right">30 g</td>
+<td>Flour</td>
+</tr>
+<tr>
+<td style="text-align:right">¼ tsp</td>
+<td>Kaalo jeere (nigella seeds)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="Equipment"><a href="#Equipment" class="headerlink" title="Equipment"></a>Equipment</h2><ul>
+<li>Mixing bowl</li>
+<li>Frying pan | skillet</li>
+<li>Perforated frying spoon | <em>jhanjhri</em></li>
+</ul>
+<h2 id="Appliances"><a href="#Appliances" class="headerlink" title="Appliances"></a>Appliances</h2><ul>
+<li>Stove</li>
+<li>Grater | grinder</li>
+</ul>
+<h2 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h2><ol>
+<li>In a dry grinder, finely powder the grains of rice.</li>
+<li>Grate the coconut using a grater or an electric grinder.</li>
+<li>Chop the green chillies.  </li>
+<li>Now, place all the ingredients in a mixing bowl and combine well by hand.</li>
+<li>Portion the mixture into balls of 25 g each.</li>
+<li>Shape each ball into a disc, making sure the top and bottom are flat for even frying.</li>
+<li>Heat oil in a skillet.</li>
+<li>Shallow-fry the <em>boras</em> till they are golden brown on both sides.</li>
+<li>Remove them from the oil and drain on a rack, colander, or over paper towels.</li>
+</ol>
+<h2 id="Served-with"><a href="#Served-with" class="headerlink" title="Served with"></a>Served with</h2><ul>
+<li><a href="/how-to/cook-the-perfect-rice/">Rice</a></li>
+<li><a href="/tags/dal/">Dal</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      Coconut fritters- traditional Bengali recipe of fresh coconuts grated, spiced with green chillies, then shallow-fried.
+    
+    </summary>
+    
+      <category term="recipe" scheme="https://bongeats.com/categories/recipe/"/>
+    
+    
+      <category term="vegetarian" scheme="https://bongeats.com/tags/vegetarian/"/>
+    
+      <category term="bhaja" scheme="https://bongeats.com/tags/bhaja/"/>
+    
+      <category term="snack" scheme="https://bongeats.com/tags/snack/"/>
+    
+      <category term="fritters" scheme="https://bongeats.com/tags/fritters/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Dim&#39;er Dalna or Duck Egg Curry</title>
     <link href="https://bongeats.com/recipe/dimer-dalna/"/>
     <id>https://bongeats.com/recipe/dimer-dalna/</id>
     <published>2016-07-29T04:39:47.000Z</published>
-    <updated>2017-02-10T02:59:59.884Z</updated>
+    <updated>2017-03-02T08:41:58.544Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">A spicy egg curry</p>
 
@@ -2890,69 +2403,6 @@
 <li>Fried rice</li>
 <li>Luchi</li>
 </ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Dim'er dalna",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/dimer-dalna_thumbnail._smalljpg.jpg",
-  "description": "This is a hearty, filling curry. It is the perfect accompaniment to a plate of steaming rice.",
-  "prepTime": "PT10M",
-  "totalTime": "PT30M",
-  "recipeYield": "4 eggs",
-  "recipeIngredient": [
-    "Mustard oil (for frying) 20 g",
-    "Mustard oil (for cooking) 20 g",
-    "Dried red chillies 2 pieces",
-    "Bay leaves 1 piece",
-    "Cardamom    2    pieces",
-    "Cloves    2    pieces",
-    "Cinnamon    1 piece",
-    "Cumin seeds 1 g (or ¼ tsp)",
-    "Eggs    4    pieces",
-    "Potatoes    4    pieces",
-    "Onions    115    g",
-    "Tomatoes    25 g",
-    "Ginger paste    15 g",
-    "Garlic    2    g",
-    "Cumin powder    2    g",
-    "Coriander powder 2    g",        
-    "Turmeric powder 4 g    (plus ¼ tsp extra for frying the eggs)",
-    "Red chilli powder 1 g",
-    "Salt (for the curry)    6    g",
-    "Salt (for boiling potatoes) 6 g",
-    "Sugar 15 g",
-    "Green chillies    1    g (or 1 piece)"
-  ],
-  "recipeInstructions": [
-    "1 Bring a pot of water to a boil.",
-    "2 Lower the eggs (which should be at room temperature; eggs from the refrigerator might crack when added to boiling water) in the water and cook them on low heat for 6 minutes (duck eggs) or 5 minutes (chicken eggs), with the lid on.",
-    "3 Turn off the heat and let the eggs sit in the hot water for another 3 minutes. We want the yolks gooey.",
-    "4 Drain the water and remove the shells.",
-    "5 Prick the eggs all around with a toothpick. This will prevent the eggs from bursting when fried and allow the gravy to seep into the yoke.",
-    "6 Coat the eggs in ¼ tsp each of salt and turmeric powder.",
-    "7 Fry the eggs in 10 g mustard oil on medium heat for 5 minutes, till they develop an even amber-coloured crust.",
-    "8 Set aside.",
-    "9 Peel and cut the potatoes in chunks of 5 cm. We need as many pieces of potatoes as there are eggs (four, in this case).",
-    "10 Place them in a microwaveable bowl.",
-    "11 Add 6 g of salt and 2 tablespoons of water.",
-    "12 Cover with cling film and microwave for 3 minutes. Alternatively, you can also boil them on the stove till partially cooked.",
-    "13 Set aside.",
-    "14 Now, heat 20 g mustard oil in a pan.",
-    "15 Temper the oil with the phoron.",
-    "16 Add the chopped onions and sugar to the pan and fry on medium heat for 5–7 minutes.",
-    "17 Add the ginger paste and minced garlic to the pan, and fry for another 3–4 minutes.",
-    "18 Make a spice paste by adding 50 g water to the cumin powder, coriander powder, turmeric powder, red chilli powder, and salt.",
-    "19 Add this mixture to the pan and cook on medium heat till the water dries off.",
-    "20 Then, add another 50g of water, along with the tomatoes and green chilli, and cook till the water dries off.",
-    "21 Add the parboiled potatoes and cook on low heat for 2 minutes.",
-    "22 Then add the eggs. Cook for another minute. Stop here if you want dim’er kosha, a rich gravy to accompany your fried rice or luchi. For a lighter curry to eat with steamed rice, proceed to the next step.",
-    "23 Now, add 225 g hot water to the pan. This will form the curry.",
-    "24 Boil for 5 minutes with lid on before removing from the heat."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -2977,140 +2427,11 @@
   </entry>
   
   <entry>
-    <title>Narkol&#39;er Bora | Coconut fritters</title>
-    <link href="https://bongeats.com/recipe/narkoler-bora/"/>
-    <id>https://bongeats.com/recipe/narkoler-bora/</id>
-    <published>2016-07-29T04:39:47.000Z</published>
-    <updated>2017-02-10T03:02:07.557Z</updated>
-    
-    <content type="html"><![CDATA[<p class="post-byline">Delicately spiced coconut fritters</p>
-
-<p class="post-intro">Q: What’s better than freshly grated coconut?<br>A: Freshly grated coconut, mildly spiced, rolled into balls, and fried till golden brown and delicious.</p>
-
-<a id="more"></a>
-<p><span class="dropcap">T</span>hese coconut fritters are a great way to take your <em>bhaat-dal-bhaja</em> game to the next level. They also make for a ridiculously tasty snack.</p>
-<hr>
-<p><strong>COOKING TIME</strong> 20 minutes<br><strong>YIELDS</strong> 9 <em>boras</em></p>
-<hr>
-<h2 id="Ingredients"><a href="#Ingredients" class="headerlink" title="Ingredients"></a>Ingredients</h2><table>
-<thead>
-<tr>
-<th style="text-align:right">Quantity</th>
-<th>Ingredient</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:right">150 g</td>
-<td>Coconut (grated)</td>
-</tr>
-<tr>
-<td style="text-align:right">10 g</td>
-<td>Green chillies (finely chopped)</td>
-</tr>
-<tr>
-<td style="text-align:right">15 g</td>
-<td>Rice grains (ground to powder)</td>
-</tr>
-<tr>
-<td style="text-align:right">6 g</td>
-<td>Salt</td>
-</tr>
-<tr>
-<td style="text-align:right">25 g</td>
-<td>Sugar</td>
-</tr>
-<tr>
-<td style="text-align:right">30 g</td>
-<td>Flour</td>
-</tr>
-<tr>
-<td style="text-align:right">¼ tsp</td>
-<td>Kaalo jeere (nigella seeds)</td>
-</tr>
-</tbody>
-</table>
-<h2 id="Equipment"><a href="#Equipment" class="headerlink" title="Equipment"></a>Equipment</h2><ul>
-<li>Mixing bowl</li>
-<li>Frying pan | skillet</li>
-<li>Perforated frying spoon | <em>jhanjhri</em></li>
-</ul>
-<h2 id="Appliances"><a href="#Appliances" class="headerlink" title="Appliances"></a>Appliances</h2><ul>
-<li>Stove</li>
-<li>Grater | grinder</li>
-</ul>
-<h2 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h2><ol>
-<li>In a dry grinder, finely powder the grains of rice.</li>
-<li>Grate the coconut using a grater or an electric grinder.</li>
-<li>Chop the green chillies.  </li>
-<li>Now, place all the ingredients in a mixing bowl and combine well by hand.</li>
-<li>Portion the mixture into balls of 25 g each.</li>
-<li>Shape each ball into a disc, making sure the top and bottom are flat for even frying.</li>
-<li>Heat oil in a skillet.</li>
-<li>Shallow-fry the <em>boras</em> till they are golden brown on both sides.</li>
-<li>Remove them from the oil and drain on a rack, colander, or over paper towels.</li>
-</ol>
-<h2 id="Served-with"><a href="#Served-with" class="headerlink" title="Served with"></a>Served with</h2><ul>
-<li><a href="/how-to/cook-the-perfect-rice/">Rice</a></li>
-<li><a href="/tags/dal/">Dal</a></li>
-</ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Narkol'er bora",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/narkoler-bora_thumbnail_small.jpg",
-  "description": "What's better than freshly grated coconut? Answer: Freshly grated coconut, mildly spiced, rolled into balls, and fried till golden brown and delicious.",
-  "prepTime": "PT10M",
-  "totalTime": "PT20M",
-  "recipeYield": "9 boras",
-  "recipeIngredient": [
-    "Coconut    150 g",
-    "Green chillies    10 g",
-    "Rice grains    15 g",
-    "Salt    6 g",
-    "Sugar    25 g",
-    "Flour    30 g",
-    "Kaalo jeere (nigella seeds)    1/4 tsp"
-  ],
-  "recipeInstructions": [
-    "1. Place all the ingredients in a mixing bowl and combine well by hand.",
-    "2. Portion the mixture into balls of 25g each.",
-    "3. Shape each ball into a disc, making sure the top and bottom are flat for even frying.",
-    "4. Heat oil in a skillet.",
-    "5. Shallow fry the boras till they are golden brown on both sides.",
-    "6. Lift them from the oil and drain them on a rack, colander, or over paper towels."
-   ]
-}
-</script>
-]]></content>
-    
-    <summary type="html">
-    
-      Coconut fritters- traditional Bengali recipe of fresh coconuts grated, spiced with green chillies, then shallow-fried.
-    
-    </summary>
-    
-      <category term="recipe" scheme="https://bongeats.com/categories/recipe/"/>
-    
-    
-      <category term="vegetarian" scheme="https://bongeats.com/tags/vegetarian/"/>
-    
-      <category term="bhaja" scheme="https://bongeats.com/tags/bhaja/"/>
-    
-      <category term="snack" scheme="https://bongeats.com/tags/snack/"/>
-    
-      <category term="fritters" scheme="https://bongeats.com/tags/fritters/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Luchi</title>
     <link href="https://bongeats.com/recipe/luchi/"/>
     <id>https://bongeats.com/recipe/luchi/</id>
     <published>2016-07-29T04:39:47.000Z</published>
-    <updated>2017-02-05T04:38:46.365Z</updated>
+    <updated>2017-03-02T08:44:01.852Z</updated>
     
     <content type="html"><![CDATA[<p class="post-byline">A light, flaky, puffed-up, deep-fried, sublime bread</p>
 
@@ -3182,37 +2503,6 @@
 <li>Kosha maangsho</li>
 <li>Payesh</li>
 </ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Luchi",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/luchi_thumbnail_small.jpg",
-  "description": "We share with you the tips and tricks to making the perfect luchis, including a special hack for beginners.",
-  "prepTime": "PT30M",
-  "totalTime": "PT60M",
-  "recipeYield": "20 luchis",
-  "recipeIngredient": [
-    "Flour 200 g",
-    "Salt 4 g",
-    "Sugar 10 g",
-    "Oil 15 g",
-    "Hot water 110 g"
-  ],
-  "recipeInstructions": [
-    "1. Place the flour in a bowl with the salt, sugar, and oil, and distribute the ingredients well by hand.",
-    "2. Add the hot water.",
-    "3. Set your timer for 10 minutes and knead the dough till it is soft and supple. The dough might seem a bit sticky at first, but take your time and knead it well, incorporating all the water.",
-    "4. Cover the dough with either a lid, wet towel, or plastic wrap, and allow it to rest for at least 30 minutes.",
-    "5. Portion the dough in 20 equal balls of 16–17g each.",
-    "6. Shape each portion of the dough into a round ball. Resting the dough for 5 minutes each before shaping and rolling will make the job easier.",
-    "7. Roll each ball into a disc of about 10cm in diameter. Beginners may roll out the luchis between two sheets of well-oiled baking paper. This will help apply pressure evenly.",
-    "8. Lower into hot oil set over medium heat and fry the luchis one at a time, gently patting the tops of the luchis with the flat end of your frying spoon to make them puff.",
-    "9. Drain the fried luchis on a rack, colander, or over paper towels."
-   ]
-}
-</script>
 ]]></content>
     
     <summary type="html">
@@ -3228,123 +2518,9 @@
     
       <category term="vegan" scheme="https://bongeats.com/tags/vegan/"/>
     
-      <category term="breakfast" scheme="https://bongeats.com/tags/breakfast/"/>
-    
       <category term="snack" scheme="https://bongeats.com/tags/snack/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Alu Sheddho | Spicy Mashed Potato</title>
-    <link href="https://bongeats.com/recipe/alu-sheddho/"/>
-    <id>https://bongeats.com/recipe/alu-sheddho/</id>
-    <published>2016-07-29T04:39:47.000Z</published>
-    <updated>2017-02-10T02:55:43.473Z</updated>
-    
-    <content type="html"><![CDATA[<p class="post-byline">Boiled potatoes, flavoured with green chillies and a fat of your choice</p>
-
-<p class="post-intro">This is the Bengali version of the mashed potato in its most basic form. It is made up of just four simple ingredients.</p>
-
-<a id="more"></a>
-<p><span class="dropcap">T</span>his recipe yields balls of warm, fluffy, buttery mash that you can eat with steaming rice and dal. While there are any number of ways in which you can boil the potatoes, for this recipe, we’ve found that cooking potatoes in an open pot of boiling water will get you the best results. You don’t want the potatoes to absorb too much water while they are cooking, as usually happens in the pressure cooker. In an open pot, you can always stick a fork into the potatoes to check if they are tender. Peeling the potatoes before you add them to the pot is also useful. It eliminates the need to handle hot spuds while removing their skins.</p>
-<p>Our favourite way, however, to cook potatoes for this recipe is to put the halved or quartered pieces into the same pot of water as your rice. That way, your <em>alu sheddho</em> is ready at nearly the same time as your rice and there is one less pot to wash at the end of the meal.</p>
-
-<hr>
-<p><strong>COOKING TIME</strong> 20 minutes<br><strong>YIELDS</strong> 4 balls of <em>alu sheddho</em></p>
-<hr>
-<h2 id="Ingredients"><a href="#Ingredients" class="headerlink" title="Ingredients"></a>Ingredients</h2><table>
-<thead>
-<tr>
-<th style="text-align:right">Quantity</th>
-<th>Ingredient</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:right">340 g</td>
-<td>Potatoes (boiled)</td>
-</tr>
-<tr>
-<td style="text-align:right">2 pieces</td>
-<td>Green chillies (finely chopped)</td>
-</tr>
-<tr>
-<td style="text-align:right">12 g</td>
-<td>Ghee or butter or mustard oil (any one)</td>
-</tr>
-<tr>
-<td style="text-align:right">4 g</td>
-<td>Salt</td>
-</tr>
-</tbody>
-</table>
-<h2 id="Equipment"><a href="#Equipment" class="headerlink" title="Equipment"></a>Equipment</h2><ul>
-<li>Boiling pot</li>
-</ul>
-<h2 id="Appliances"><a href="#Appliances" class="headerlink" title="Appliances"></a>Appliances</h2><ul>
-<li>Stove</li>
-</ul>
-<h2 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h2><ol>
-<li>Peel the potatoes and cut them in quarters.</li>
-<li>Place the pieces in a pot of water and set them to boil.</li>
-<li>Cook the potatoes till they are tender. Use a fork or knife to check if they are done.</li>
-<li>Drain the water and transfer the boiled potatoes onto a plate or mixing dish.</li>
-<li>While they are still hot, mash the potatoes with a fork.</li>
-<li>Add the fat of your choice (ghee or butter or mustard oil), green chillies, and salt.</li>
-<li>Continue mashing with a fork or by hand till the mixture is smooth and lump-free.</li>
-<li>Form into balls and serve.</li>
-</ol>
-<h2 id="Served-with"><a href="#Served-with" class="headerlink" title="Served with"></a>Served with</h2><ul>
-<li><a href="/tags/dal/">Dal</a></li>
-<li><a href="/how-to/cook-the-perfect-rice/">Rice</a></li>
-</ul>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Alu sheddho",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/alu-sheddho_thumbnail_small.jpg",
-  "description": "This is the Bengali version of the mashed potato in its most basic form. It is made up of just four ingredients.",
-  "prepTime": "PT5M",
-  "totalTime": "PT20M",
-  "recipeYield": "4",
-  "recipeIngredient": [
-    "Potatoes    340 g",
-    "Green chillies    2 g (or 2 pieces)",
-    "Ghee | butter | mustard oil    12 g",
-    "Salt    4 g"
-  ],
-  "recipeInstructions": [
-    "1 Peel the potatoes and cut them into pieces 5 cm large.",
-    "2 Place them in a pot of water and set them to boil.",
-    "3 Cook the potatoes till they are tender. Use a fork or knife to check if they are done.",
-    "4 Drain the water and transfer the boiled potatoes onto a plate or mixing dish.",
-    "5 While they are still hot, mash the potatoes with a fork.",
-    "6 Add the fat of your choice (ghee or butter or mustard oil), green chillies, and salt.",
-    "7 Continue mashing with the fork or by hand till the mixture is smooth and lump-free.",
-    "8 Form into balls and serve."
-   ]
-}
-</script>
-]]></content>
-    
-    <summary type="html">
-    
-      The naughtier Indian cousin of the mashed potato-flavoured with ghee or mustard oil and green chllies-a tribute to Bengali love for aloo
-    
-    </summary>
-    
-      <category term="recipe" scheme="https://bongeats.com/categories/recipe/"/>
-    
-    
-      <category term="vegetarian" scheme="https://bongeats.com/tags/vegetarian/"/>
-    
-      <category term="vegan" scheme="https://bongeats.com/tags/vegan/"/>
-    
-      <category term="gluten-free" scheme="https://bongeats.com/tags/gluten-free/"/>
-    
-      <category term="boiled" scheme="https://bongeats.com/tags/boiled/"/>
+      <category term="breakfast" scheme="https://bongeats.com/tags/breakfast/"/>
     
   </entry>
   

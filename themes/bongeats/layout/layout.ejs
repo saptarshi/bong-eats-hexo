@@ -14,9 +14,13 @@
 <html ⚡ lang="<%= config.language %>">
     <%- partial('_partial/head') %>
     <body>
+        <% if (page.jsonLd) { %>
+          <script type="application/ld+json">
+              <%- JSON.stringify(page.jsonLd) %>
+          </script>
+        <% } %>
         <div id="blog">
             <%- partial('_partial/header', {sidebarBehavior: sidebarBehavior}) %>
-            <%- partial('_partial/sidebar', {sidebarBehavior: sidebarBehavior}) %>
             <%- partial('_partial/post/header-cover', {post: page, sidebarBehavior: sidebarBehavior}) %>
             <div id="main" data-behavior="<%= sidebarBehavior %>"
                  class="<%= (page.coverImage ? 'hasCover' : '') %>
@@ -32,7 +36,6 @@
                 <%- partial('_partial/post/share-options', {post: page, sidebarBehavior: sidebarBehavior}) %>
             <% } %>
         </div>
-        <%- partial('_partial/about', null, {cache: !config.relative_link}) %>
         <%- partial('_partial/cover', null, {cache: !config.relative_link}) %>
     </body>
 </html>

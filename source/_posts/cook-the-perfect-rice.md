@@ -10,12 +10,47 @@ categories:
 thumbnailImagePosition: top
 thumbnailImage: >-
   https://res.cloudinary.com/dmpeew57x/image/upload/v1481780297/bhaat-website-thumbnail_ukmld4.jpg
-coverImage: >-
-  https://res.cloudinary.com/dmpeew57x/image/upload/v1481780307/bhaat-Website-cover_vcs1mu.jpg
 coverMeta: out
 coverSize: partial
 videoId: UkzICnqYMrY
 date: 2016-12-15 09:00:00
+jsonLd: {
+  "@context": "http://schema.org/",
+  "@type": "recipe",
+  "name": "How to Cook the Perfect Rice",
+  "author": "Bong Eats",
+  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1481780294/bhaat-thumbnail-small_ll5eta.jpg",
+  "description": "In this tutorial, we show you how you can cook the perfect, fluffy, non-sticky rice on an everyday basis to go along with your dal, torkari, or mangsher jhol for the day.",
+  "prepTime": "PT05M",
+  "totalTime": "PT30M",
+  "recipeYield": "2",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "2 servings",
+    "calories": "206 calories",
+    "fatContent": "0.4 g",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "0.6 g",
+    "proteinContent": "4.3 g",
+    "saturatedFatContent": "0.1 g",
+    "sodiumContent": "1.6 mg",
+    "sugarContent": "0.1 g"
+  },
+  "recipeIngredient": [
+    "Rice",
+    "Water",
+    "Vinegar or fitkari (alum)"
+  ],
+  "recipeInstructions": [
+    "1. Measure out the rice and place it in a boiling vessel.",
+    "2. Fill the pot with water and wash the rice thoroughly to remove dirt and any excess starch. Rinse and repeat this process till the water runs clear.",
+    "3. Fill the pot with water once again and set it to boil, with the lid on. Rice is a starch that loves water. Be sure to boil it in sufficient water (at least 5 parts water to 1 part rice) if you want your rice to not be sticky.",
+    "4. For fluffy, pearly-white rice, you may also add 1 tbsp of vinegar or 1 tsp of fitkari (alum) to the pot.",
+    "5. Cook the rice till it is just done. Check by lifting a grain between your fingers and mashing it gently. Do not overcook if you want the rice grains to remain firm and separate.",
+    "6. Strain immediately over a colander and allow the water to drain off completely before serving."
+   ]
+}
 ---
 
 
@@ -57,43 +92,3 @@ There is something extremely satisfying in sitting down to a meal before a plate
 4. For fluffy, pearly-white rice, you may also add 1 tbsp of vinegar or 1 tsp of _fitkari_ (alum) to the pot.
 5. Cook the rice till it is just done. Check by lifting a grain between your fingers and mashing it gently. Do not overcook if you want the rice grains to remain firm and separate.
 6. Strain immediately over a colander and allow the water to drain off completely before serving.   
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "recipe",
-  "name": "How to Cook the Perfect Rice",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1481780294/bhaat-thumbnail-small_ll5eta.jpg",
-  "description": "In this tutorial, we show you how you can cook the perfect, fluffy, non-sticky rice on an everyday basis to go along with your dal, torkari, or mangsher jhol for the day.",
-  "prepTime": "PT05M",
-  "totalTime": "PT30M",
-  "recipeYield": "2",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "servingSize": "2 servings",
-    "calories": "206 calories",
-    "fatContent": "0.4 g",
-    "carbohydrateContent": "45 g",
-    "cholesterolContent": "0 mg",
-    "fiberContent": "0.6 g",
-    "proteinContent": "4.3 g",
-    "saturatedFatContent": "0.1 g",
-    "sodiumContent": "1.6 mg",
-    "sugarContent": "0.1 g"
-  },
-  "recipeIngredient": [
-    "Rice",
-    "Water",
-    "Vinegar or fitkari (alum)"
-  ],
-  "recipeInstructions": [
-    "1. Measure out the rice and place it in a boiling vessel.",
-    "2. Fill the pot with water and wash the rice thoroughly to remove dirt and any excess starch. Rinse and repeat this process till the water runs clear.",
-    "3. Fill the pot with water once again and set it to boil, with the lid on. Rice is a starch that loves water. Be sure to boil it in sufficient water (at least 5 parts water to 1 part rice) if you want your rice to not be sticky.",
-    "4. For fluffy, pearly-white rice, you may also add 1 tbsp of vinegar or 1 tsp of fitkari (alum) to the pot.",
-    "5. Cook the rice till it is just done. Check by lifting a grain between your fingers and mashing it gently. Do not overcook if you want the rice grains to remain firm and separate.",
-    "6. Strain immediately over a colander and allow the water to drain off completely before serving."
-   ]
-}
-</script>
