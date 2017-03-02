@@ -4,7 +4,7 @@ module.exports = function(grunt) {
     'clean:build',
     'bower:dev',
     'syncAssets',
-    'replace:cssFancybox',
+    // 'replace:cssFancybox',
     'replace:cssTranquilpeak',
     'concat',
     'cssmin',

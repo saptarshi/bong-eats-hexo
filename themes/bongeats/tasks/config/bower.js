@@ -22,8 +22,8 @@ module.exports = function(grunt) {
               'source/fancybox_sprite.png',
               'source/fancybox_sprite@2x.png',
               'source/jquery.fancybox.js',
-              'source/jquery.fancybox.css',
-              'source/helpers/jquery.fancybox-thumbs.css',
+              // 'source/jquery.fancybox.css',
+              // 'source/helpers/jquery.fancybox-thumbs.css',
               'source/helpers/jquery.fancybox-thumbs.js'
             ]
           }

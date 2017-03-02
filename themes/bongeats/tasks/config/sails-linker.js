@@ -17,7 +17,8 @@ module.exports = function(grunt) {
         startTag: '<!--STYLES-->',
         endTag: '<!--STYLES END-->',
         fileTmpl: '<%- css(\'%s\') EJS_ENDTAG',
-        appRoot: 'source/'
+        appRoot: 'source/',
+        inline: false
       },
       files: {
         'layout/_partial/head.ejs': pipeline.tranquilpeakCssFilesToInject
@@ -38,11 +39,12 @@ module.exports = function(grunt) {
       options: {
         startTag: '<!--STYLES-->',
         endTag: '<!--STYLES END-->',
-        fileTmpl: '<%- css(\'%s\') EJS_ENDTAG',
+        inline: true,
+        fileTmpl: '<style>%s</style>',
         appRoot: 'source/'
       },
       files: {
-        'layout/_partial/head.ejs': 'source/assets/css/*.min.css'
+        'layout/_partial/head.ejs': 'source/assets/css/style*.min.css'
       }
     }
   });

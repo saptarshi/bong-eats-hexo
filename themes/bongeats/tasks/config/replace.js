@@ -30,7 +30,7 @@ module.exports = function(grunt) {
     cssTranquilpeak: {
       overwrite: true,
       src: [
-        'source/assets/css/tranquilpeak.css'
+        'source/assets/css/bongeats.css'
       ],
       replacements: [{
         from: /url\(\"[.\/]+_images\//,
@@ -50,4 +50,3 @@ module.exports = function(grunt) {
 
   grunt.loadNpmTasks('grunt-text-replace');
 };
-

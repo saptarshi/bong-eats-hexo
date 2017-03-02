@@ -11,7 +11,7 @@
     }
 %>
 <!DOCTYPE html>
-<html lang="<%= config.language %>">
+<html ⚡ lang="<%= config.language %>">
     <%- partial('_partial/head') %>
     <body>
         <div id="blog">
@@ -35,5 +35,4 @@
         <%- partial('_partial/about', null, {cache: !config.relative_link}) %>
         <%- partial('_partial/cover', null, {cache: !config.relative_link}) %>
     </body>
-    <%- partial('_partial/script', {post: page}) %>
 </html>
