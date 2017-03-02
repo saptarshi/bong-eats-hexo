@@ -1,0 +1,196 @@
+// Group of `.postShorten`
+// Add margin and border bottom when `.postShorten` are in `.postShorten-group`
+.postShorten-group {
+    .postShorten {
+        // Space between 2 shorten post
+        margin-top:    15px;
+        border-bottom: 1px solid #eef2f8;
+    }
+}
+
+// Post
+.postShorten {
+    margin: 0 10px 20px 10px;
+    position: relative;
+    // width: 336px;
+    background-color: #fff;
+    // border-radius: 3px;
+    // box-shadow: 0px 1px 2px 0 rgba(0,0,0,0.26);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 1 calc((100% - 56px)/3);
+    -ms-flex: 0 1 calc((100% - 56px)/3);
+    flex: 0 1 calc((100% - 56px)/3);
+    -webkit-flex-basis: calc((100% - 56px)/3);
+    -ms-flex-preferred-size: calc((100% - 56px)/3);
+    flex-basis: calc((100% - 56px)/3);
+    margin: 0 14px 35px;
+    box-sizing: border-box;
+
+    &:nth-of-type(3n+1) {
+        margin-left: 0px;
+    }
+    &:nth-of-type(3n+3) {
+        margin-right: 0px;
+    }
+
+    .postShorten-thumbnailimg {
+        overflow:hidden;
+        margin-bottom: 28px;
+        border-radius: 4px;
+        position: relative;
+    }
+    .postShorten-text {
+      padding: 0 14px;
+    }
+    .postShorten-header {
+        .postShorten-title {
+            margin:     0;
+            word-break: initial;
+            overflow:   hidden;
+
+            &:hover {
+                text-decoration: none;
+            }
+        }
+    }
+    // postShorten meta contains post's date, post's categories and tags
+    .postShorten-meta {
+      display: none;
+        // line-height: 1.5em;
+        //
+        // a {
+        //     color: map-get($colors, light);
+        // }
+    }
+    .postShorten-meta,
+    .postShorten-readingtime {
+        color: map-get($colors, light);
+    }
+    .postShorten-excerpt_link {
+        // Bring the post's link nearest of the excerpt
+        margin-top: -15px;
+        font-size: 0.7em;
+        // float: right;
+    }
+    .postShorten-meta,
+    .postShorten-readingtime,
+    .postShorten-excerpt_link {
+        // font-family: map-get($font-families, 'post-excerpt-link');
+        // font-size:   map-get($font-size, small);
+        // font-weight: 400;
+    }
+    .postShorten-excerpt,
+    .postShorten-content {
+        text-rendering: optimizelegibility;
+        letter-spacing: -0.3px;
+        // font-family:    map-get($font-families, 'post-content');
+        color:          map-get($colors, base);
+        // font-weight:    400;
+        overflow:       hidden;
+        @include prefix('hypens', 'auto', 'webkit' 'moz');
+
+        img {
+            display:   block;
+            width:     auto;
+            max-width: 100%;
+        }
+    }
+    .postShorten-excerpt {
+        margin-top: 15px;
+
+        .post-intro {
+          display: none;
+        }
+    }
+    .postShorten-content {
+        margin-top: 25px;
+    }
+
+    .post-byline {
+      text-align: left;
+      letter-spacing: 0;
+      text-transform: none;
+    }
+}
+
+// Hide the post's thumbnail image on very small screen and down
+@media #{$xsmall-and-down} {
+    .postShorten {
+        .postShorten-thumbnailimg {
+            // display: none;
+
+            img {
+                // display: none;
+            }
+        }
+    }
+}
+
+// Display the post's thumbnail image on small screen and up
+@media #{$small-and-up} {
+    .postShorten.postShorten--thumbnailimg-right {
+        .postShorten-thumbnailimg {
+            float:  right;
+            margin: 5px 0 30px 15px;
+
+            img {
+                display:    block;
+                width:      $post-thumbnail-image-width;
+                height:     $post-thumbnail-image-width;
+                object-fit: cover;
+                overflow:   hidden;
+            }
+        }
+        .postShorten-wrap {
+            float: left;
+            width: calc(100% - #{$post-thumbnail-image-width} - 20px);
+        }
+    }
+    .postShorten.postShorten--thumbnailimg-left {
+        .postShorten-thumbnailimg {
+            float:  left;
+            margin: 5px 15px 30px 0;
+
+            img {
+                display:    block;
+                width:      $post-thumbnail-image-width;
+                height:     $post-thumbnail-image-width;
+                object-fit: cover;
+                overflow:   hidden;
+            }
+        }
+        .postShorten-wrap {
+            float: right;
+            width: calc(100% - #{$post-thumbnail-image-width} - 20px);
+        }
+    }
+    .postShorten.postShorten--thumbnailimg-top {
+        .postShorten-thumbnailimg {
+            margin-top: 5px;
+        }
+    }
+    .postShorten.postShorten--thumbnailimg-bottom {
+        .postShorten-wrap {
+            display: block;
+            width:   100%;
+        }
+        .postShorten-excerpt > p {
+            margin-bottom: 0;
+        }
+        .postShorten-thumbnailimg {
+
+            display:  block;
+            width:    100%;
+            overflow: hidden;
+            margin:   15px 0 15px 0;
+
+            img {
+                width:  auto;
+                height: auto;
+            }
+        }
+    }
+}

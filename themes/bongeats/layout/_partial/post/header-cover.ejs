@@ -1,0 +1,29 @@
+<%
+    // Generate cover image url
+    var coverImageUrl;
+    if (post.coverImage) {
+        if (is_remote_url(post.coverImage)) {
+            coverImageUrl = post.coverImage;
+        }
+        else {
+            coverImageUrl = url_for(post.path.replace('.html', '/') + post.coverImage);
+        }
+%>
+        <div class="post-header-cover
+                    <%= (post.metaAlignment ? 'text-' + post.metaAlignment : 'text-left') %>
+                    <%= (post.coverSize ? 'post-header-cover--' + post.coverSize : '') %>"
+             style="background-image:url('<%= coverImageUrl %>');"
+             data-behavior="<%= sidebarBehavior %>">
+            <% if (typeof post.coverMeta === "undefined" || post.coverMeta === 'in') { %>
+                <%- partial('header') %>
+            <% } %>
+            <div class="video-container">
+              <div class="play-button"></div>
+              <a href="https://www.youtube.com/watch?v=<%=(post.videoId)%>" target="_blank" title="watch this video on YouTube" class="watch-on-yt hide">
+                <span class="">Watch this on </span>
+                <img src="https://res.cloudinary.com/dmpeew57x/image/upload/v1478229644/YouTube-logo-light_bxq6se.png" width="100" height="50" alt="youtube logo">
+              </a>
+              <div class="video-player hide" id="player" data-youtube="<%=(post.videoId)%>"></div>
+            </div>
+        </div>
+<% } %>
