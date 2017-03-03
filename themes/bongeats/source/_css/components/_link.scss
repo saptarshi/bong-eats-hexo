@@ -2,18 +2,18 @@ a.link-unstyled {
     &,
     &:hover,
     &:active {
-        cursor:          pointer !important;
-        color:           inherit !important;
-        text-decoration: none !important;
+        cursor:          pointer;
+        color:           inherit;
+        text-decoration: none;
     }
     a.link {
         &,
         &:hover,
         &:active {
-            text-decoration: underline !important;
+            text-decoration: underline;
         }
     }
 }
 a.fancybox {
-    cursor: zoom-in !important;
+    cursor: zoom-in;
 }

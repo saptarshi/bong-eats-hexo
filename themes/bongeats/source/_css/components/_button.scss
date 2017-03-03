@@ -20,7 +20,7 @@
 // Disabled button
 .btn--disabled,
 .btn--disabled:hover {
-    color:           lighten(map-get($colors, light), 10) !important;
+    color:           lighten(map-get($colors, light), 10);
     border:          1px solid lighten(map-get($colors, light), 10);
     cursor:          not-allowed;
     text-decoration: none;

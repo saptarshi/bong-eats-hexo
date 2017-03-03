@@ -1,20 +1,9 @@
 <div id="share-options-bar" class="share-options-bar" data-behavior="<%= sidebarBehavior %>">
-    <ul class="share-options">
-        <li class="share-option">
-            <a class="share-option-btn" target="_blank" href="<%= 'https://plus.google.com/share?url=' + post.permalink %>">
-                <i class="fa fa-google-plus"></i><span class=""><%= __('global.share_on_google_plus') %></span>
-            </a>
-        </li>
-        <li class="share-option">
-            <a class="share-option-btn" target="_blank" href="<%= 'https://www.facebook.com/sharer/sharer.php?u=' + post.permalink %>">
-                <i class="fa fa-facebook-official"></i><span><%= __('global.share_on_facebook') %></span>
-            </a>
-        </li>
-        <li class="share-option">
-            <a class="share-option-btn" target="_blank" href="<%= 'https://twitter.com/intent/tweet?text=' + post.permalink %>">
-                <i class="fa fa-twitter"></i><span><%= __('global.share_on_twitter') %></span>
-            </a>
-        </li>
-    </ul>
+  <amp-social-share type="email"></amp-social-share>
+  <amp-social-share type="facebook" data-param-app_id="1060975204048170"></amp-social-share>
+  <amp-social-share type="gplus"></amp-social-share>
+  <amp-social-share type="tumblr"></amp-social-share>
+  <amp-social-share type="twitter"></amp-social-share>
+  <amp-social-share type="whatsapp"></amp-social-share>
 </div>
 <div id="share-options-mask" class="share-options-mask"></div>

@@ -37,7 +37,7 @@ In Bengali cooking, _garam masala_ is used to flavour egg, chicken, mutton, lamb
 ***
 ## Ingredients
 | Quantity | Ingredient       |
-|---------:|------------------|
+|----------|------------------|
 |      7 g | Cardamom (whole) |
 |      2 g | Cloves (whole)   |
 |      2 g | Cinnamon (whole) |

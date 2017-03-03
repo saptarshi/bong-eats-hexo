@@ -1,11 +1,11 @@
 /// Helper for 'components/tag' to stylize a tag  with a specified color
 /// @param {Color} $color - Color CSS value
 @mixin tag-color-variant($color) {
-    color:  $color !important;
+    color:  $color;
     border: 1px solid $color;
 
     &:hover {
-        color:           darken($color, 15) !important;
+        color:           darken($color, 15);
         border:          1px solid darken($color, 15);
         text-decoration: none;
     }

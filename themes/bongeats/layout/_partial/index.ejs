@@ -58,7 +58,7 @@
             <% if (thumbnailImageUrl !== null && thumbnailImagePosition === "top") { %>
                 <a href="<%- url_for(post.path) %>">
                     <div class="postShorten-thumbnailimg">
-                        <img alt="<%= post.title %>" itemprop="image" src="<%= thumbnailImageUrl %>"/>
+                        <amp-youtube width="480" height="270" layout="responsive" data-videoid="<%=(post.videoId)%>"></amp-youtube>
                     </div>
                 </a>
                 <% thumbnailImageUrl = null; %>
@@ -80,7 +80,7 @@
               </div>
             <% if (post.excerpt || post.link) { %>
                 <div class="postShorten-excerpt" itemprop="articleBody">
-                    <%- post.excerpt %>
+                    <%- post.description %>
                     <% if (post.link && _('post.go_to_website')) { %>
                         <a href="<%- url_for(post.link) %>" target="_blank" class="postShorten-excerpt_link link">
                             <%= __('post.go_to_website') %>

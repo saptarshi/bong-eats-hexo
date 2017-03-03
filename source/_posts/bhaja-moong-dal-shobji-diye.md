@@ -34,7 +34,7 @@ jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Bhaja Moong Da
 ***
 ## Ingredients
 | Quantity | Ingredient                        |
-|---------:|-----------------------------------|
+|----------|-----------------------------------|
 |    100 g | Moong dal (split gram)            |
 |    550 g | Water (for boiling dal)           |
 |     10 g | Mustard oil                       |

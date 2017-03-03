@@ -16,42 +16,7 @@ coverMeta: out
 coverSize: partial
 videoId: plb-4p9V6U4
 date: 2016-07-28 21:39:47
-jsonLd: {
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Plain mosur dal",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/plain-mosur-dal_thumbnail_small.jpg",
-  "description": "This is one of the simplest dals you can make. It is light and hearty, and goes well with almost any bhaja or torkari. Because it is sparsely spiced, it is a perfect component of a day-to-day meal.",
-  "prepTime": "PT10M",
-  "totalTime": "PT20M",
-  "recipeYield": "5",
-  "recipeIngredient": [
-    "Mustard oil	15 g",
-    "Kaalo jeere	¼ tsp",
-    "Dried red chillies	2 pcs",
-    "Green chillies	2 pcs",
-    "Bay leaf	1 pc",
-    "Turmeric powder	½ tsp (or 1 g)",
-    "Salt	8 g",
-    "Water	500 g",
-    "Coriander leaves 6 g",
-    "Mosur dal	100 g"
-  ],
-  "recipeInstructions": [
-    "1 Rinse the dal well and drain the water",
-    "2 Place washed dal in a pressure cooker with 500g water",
-    "3 Boil till you see the broken grains of dal. If using a pressure cooker, cook on medium-high heat till you hear the first whistle. Turn off the heat and let the pressure release on its own",
-    "4 Whisk the boiled dal till you can no longer see the individual grains",
-    "5 Heat up your pan",
-    "6 Add mustard oil and allow it to smoke lightly",
-    "7 Add kaalo jeere, dried red chillies, green chillies, and bay leaf",
-    "8 Add the whisked dal",
-    "9 Add turmeric and salt",
-    "10 Allow it to boil on medium heat for 4–5 minutes",
-    "11 Garnish with the chopped coriander"
-   ]
-}
+jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Plain mosur dal","author":"Bong Eats","image":"https://res.cloudinary.com/dmpeew57x/image/upload/v1478835725/thumbs/plain-mosur-dal_thumbnail_small.jpg","description":"This is one of the simplest dals you can make. It is light and hearty, and goes well with almost any bhaja or torkari. Because it is sparsely spiced, it is a perfect component of a day-to-day meal.","prepTime":"PT10M","totalTime":"PT20M","recipeYield":"5","recipeIngredient":["Mustard oil	15 g","Kaalo jeere	¼ tsp","Dried red chillies	2 pcs","Green chillies	2 pcs","Bay leaf	1 pc","Turmeric powder	½ tsp (or 1 g)","Salt	8 g","Water	500 g","Coriander leaves 6 g","Mosur dal	100 g"],"recipeInstructions":["1 Rinse the dal well and drain the water","2 Place washed dal in a pressure cooker with 500g water","3 Boil till you see the broken grains of dal. If using a pressure cooker, cook on medium-high heat till you hear the first whistle. Turn off the heat and let the pressure release on its own","4 Whisk the boiled dal till you can no longer see the individual grains","5 Heat up your pan","6 Add mustard oil and allow it to smoke lightly","7 Add kaalo jeere, dried red chillies, green chillies, and bay leaf","8 Add the whisked dal","9 Add turmeric and salt","10 Allow it to boil on medium heat for 4–5 minutes","11 Garnish with the chopped coriander"]}
 ---
 
 
@@ -70,7 +35,7 @@ jsonLd: {
 ***
 ## Ingredients
 |       Quantity | Ingredient                        |
-|---------------:|-----------------------------------|
+|----------------|-----------------------------------|
 |           15 g | Mustard oil                       |
 |          ¼ tsp | Kaalo jeere or nigella seeds      |
 |       2 pieces | Dried red chillies                |

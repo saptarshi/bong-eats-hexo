@@ -8,8 +8,6 @@ var tranquilpeakJsFilesToInject = [
 
 // Css files to inject in `layout/_partial/head.ejs`
 var tranquilpeakCssFilesToInject = [
-  'jquery.fancybox.css',
-  'jquery.fancybox-thumbs.css',
   'bongeats.css',
 ];
 

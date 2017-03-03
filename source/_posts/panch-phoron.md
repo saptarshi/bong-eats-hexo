@@ -17,27 +17,7 @@ coverMeta: out
 coverSize: partial
 videoId: gNj33BZYcPs
 date: 2017-02-16 09:00:00
-jsonLd: {
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Panch Phoron",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1487297456/panchphoron-thumbnail-small-_gcah1e.jpg",
-  "description": "A Bengali five-spice mix for tempering oil",
-  "prepTime": "PT5M",
-  "totalTime": "PT5M",
-  "recipeYield": "50 g of panch phoron",
-  "recipeIngredient": [
-    "1 tbsp  mouri (fennel seeds)",
-    "1 tbsp  methi (fenugreek seeds)",
-    "1 tbsp  kaalo jeere (nigella seeds)",
-    "1 tbsp  shorshe (mustard seeds)",
-    "1 tbsp  radhuni"
-  ],
-  "recipeInstructions": [
-    "Mix all the whole spices together in equal proportions and store in an airtight container."
-   ]
-}
+jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Panch Phoron","author":"Bong Eats","image":"https://res.cloudinary.com/dmpeew57x/image/upload/v1487297456/panchphoron-thumbnail-small-_gcah1e.jpg","description":"A Bengali five-spice mix for tempering oil","prepTime":"PT5M","totalTime":"PT5M","recipeYield":"50 g of panch phoron","recipeIngredient":["1 tbsp  mouri (fennel seeds)","1 tbsp  methi (fenugreek seeds)","1 tbsp  kaalo jeere (nigella seeds)","1 tbsp  shorshe (mustard seeds)","1 tbsp  radhuni"],"recipeInstructions":["Mix all the whole spices together in equal proportions and store in an airtight container."]}
 ---
 
 
@@ -61,7 +41,7 @@ The _panch phoron_ is used like any other _phoron_. You heat up the mustard oil 
 ***
 ## Ingredients
 | Quantity | Ingredient                  |
-|---------:|-----------------------------|
+|----------|-----------------------------|
 |   1 tbsp | mouri (fennel seeds)        |
 |   1 tbsp | methi (fenugreek seeds)     |
 |   1 tbsp | kaalo jeere (nigella seeds) |

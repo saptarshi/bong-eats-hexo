@@ -9,37 +9,25 @@
         <% authorPicture = url_for(theme.image_dir + '/' + theme.author.picture); %>
     <% } %>
 <% } %>
-<nav id="sidebar" data-behavior="<%= sidebarBehavior %>">
-    <% if (authorPicture) { %>
-        <div class="sidebar-profile">
-            <a href="<%- url_for('/#about') %>">
-                    <img class="sidebar-profile-picture" src="<%= authorPicture %>"/>
-            </a>
-            <span class="sidebar-profile-name"><%= config.author %></span>
-        </div>
-    <% } %>
-    <div class="yt-subscribe">
-      <div class="g-ytsubscribe" data-channelid="UCYLAf7WuBy6y64RewvwGjoQ" data-layout="full" data-count="default"></div>
-    </div>
 
-    <% for (var i in theme.sidebar) { %>
-        <ul class="sidebar-buttons">
-        <% for (var n in theme.sidebar[i]) { %>
-            <li class="sidebar-button">
-                <% if (url_for(theme.sidebar[i][n].url).indexOf(config.url) < 0 && url_for(theme.sidebar[i][n].url).indexOf(':') >= 0) { %>
-                    <a  class="sidebar-button-link <% if (theme.sidebar[i][n].class) { %><%= theme.sidebar[i][n].class %><% } %>" href="<%- url_for(theme.sidebar[i][n].url) %>" target="_blank">
-                <% } else { %>
-                    <a  class="sidebar-button-link <% if (theme.sidebar[i][n].class) { %><%= theme.sidebar[i][n].class %><% } %>"
-                        <% if (theme.sidebar[i][n].url.indexOf("/") === 0 && theme.sidebar[i][n].url.length === 1) { %> href="<%- url_for(' ') %>"
-                        <% } else if (theme.sidebar[i][n].url.indexOf("/") === 0) { %> href="<%- url_for(theme.sidebar[i][n].url.substr(1)) %>"
-                        <% } else { %> href="<%- url_for(theme.sidebar[i][n].url) %>"<% } %>
-                    >
-                <% } %>
-                    <i class="sidebar-button-icon fa fa-lg <%= 'fa-' + theme.sidebar[i][n].icon %>"></i>
-                    <span class="sidebar-button-desc"><%= __(theme.sidebar[i][n].title) %></span>
-                </a>
-        </li>
-        <% } %>
-    </ul>
-    <% } %>
-</nav>
+<amp-sidebar id='sidebar1' layout='nodisplay'>
+  <ul>
+    <li>
+      <% if (authorPicture) { %>
+          <a href="<%- url_for('/#about') %>">
+              <amp-img class="sidebar-profile-picture" width="90" height="90" src="<%= authorPicture %>"/>
+          </a>
+          <span class="sidebar-profile-name"><%= config.author %></span>
+      <% } %>
+    </li>
+    <li><amp-social-share type="facebook" data-param-app_id="1060975204048170"></amp-social-share></li>
+    <li><amp-social-share type="tumblr"></amp-social-share></li>
+    <li><amp-social-share type="twitter"></amp-social-share></li>
+    <li> Nav item 5</li>
+    <li> Nav item 6</li>
+    <li> Nav item 7</li>
+    <li> Nav item 8</li>
+    <li> Nav item 9</li>
+    <li on="tap:sidebar1.close"> Close</li>
+  </ul>
+</amp-sidebar>

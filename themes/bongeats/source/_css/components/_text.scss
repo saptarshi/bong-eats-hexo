@@ -1,98 +1,98 @@
 // Text alignment
 .text-left {
-    text-align: left !important;
+    text-align: left;
 }
 
 .text-right {
-    text-align: right !important;
+    text-align: right;
 }
 
 .text-center {
-    text-align: center !important;
+    text-align: center;
 }
 
 .text-justify {
-    text-align: justify !important;
+    text-align: justify;
 }
 
 .text-nowrap {
-    white-space: nowrap !important;
+    white-space: nowrap;
 }
 
 // Text transformation
 .text-lowercase {
-    text-transform: lowercase !important;
+    text-transform: lowercase;
 }
 
 .text-uppercase {
-    text-transform: uppercase !important;
+    text-transform: uppercase;
 }
 
 .text-capitalize {
-    text-transform: capitalize !important;
+    text-transform: capitalize;
 }
 
 // Text size
 .text-xsmall {
-    // font-size: map-get($font-size, xsmall) !important;
+    // font-size: map-get($font-size, xsmall);
 }
 
 .text-small {
-    // font-size: map-get($font-size, small) !important;
+    // font-size: map-get($font-size, small);
 }
 
 .text-medium {
-    // font-size: map-get($font-size, medium) !important;
+    // font-size: map-get($font-size, medium);
 }
 
 .text-base {
-    // font-size: $font-size-base !important;
+    // font-size: $font-size-base;
 }
 
 .text-large {
-    // font-size: map-get($font-size, large) !important;
+    // font-size: map-get($font-size, large);
 }
 
 .text-xlarge {
-    // font-size: map-get($font-size, xlarge) !important;
+    // font-size: map-get($font-size, xlarge);
 }
 
 // Text style
 .text-strong {
-    font-weight: 700 !important;
+    font-weight: 700;
 }
 
 .text-regular {
-    font-weight: 400 !important;
+    font-weight: 400;
 }
 
 .text-light {
-    font-weight: 300 !important;
+    font-weight: 300;
 }
 
 .text-italic {
-    font-style: italic !important;
+    font-style: italic;
 }
 
 .text-underline {
-    text-decoration: underline !important;
+    text-decoration: underline;
 }
 
 .text-underline-hover {
     &:hover {
-        text-decoration: underline !important;
+        text-decoration: underline;
     }
 }
 
 // Text coloration
 .text-color-base {
-    color: map-get($colors, base) !important;
+    color: map-get($colors, base);
 }
 
 .text-color-light {
-    color: map-get($colors, light) !important;
+    color: map-get($colors, light);
 }
 
 .text-color-link {
-    color: map-get($colors, link) !important;
+    color: map-get($colors, link);
 }

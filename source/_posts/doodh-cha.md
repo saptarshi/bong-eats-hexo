@@ -13,35 +13,7 @@ coverMeta: out
 coverSize: partial
 videoId: ntigmnhKrAY
 date: 2017-01-05 09:00:00
-jsonLd: {
-  "@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Doodh Cha",
-  "author": "Bong Eats",
-  "image": "https://res.cloudinary.com/dmpeew57x/image/upload/v1481780300/doodh-cha-thumbnail-small_csecpb.jpg",
-  "description": "A sweet, milky, aromatic concoction steeped with orange pekoe tea",
-  "prepTime": "PT10M",
-  "totalTime": "PT20M",
-  "recipeYield": "2 mugs",
-  "recipeIngredient": [
-    "300 g  Milk",
-    "300 g Water",
-    "8 g Ginger",
-    "1 piece Clove",
-    "1 piece Cardamom",
-    "25 g  Sugar",
-    "8 g Orange pekoe tea"
-  ],
-  "recipeInstructions": [
-    "1. Using a mortar and pestle, roughly crush the clove and cardamom pod. This will help release their flavours.",
-    "2. Wash, peel, and dice the ginger roughly.",
-    "3. Set a saucepan over medium-high heat and add the water, clove, cardamom, and ginger.",
-    "4. Cover the pan and let the water come to a boil. Allow the spices to bubble in water for about 4 minutes.",
-    "5. Add the milk, and once it has heated up, add in the tea and sugar.",
-    "6. Allow this milky concoction to boil vigorously. Just when the tea is about to boil over, drop the heat and let it simmer for about 4 minutes. You can see the tea change colour from light brown to a rosy kind of orange.",
-    "7. Strain and serve immediately."
-   ]
-}
+jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Doodh Cha","author":"Bong Eats","image":"https://res.cloudinary.com/dmpeew57x/image/upload/v1481780300/doodh-cha-thumbnail-small_csecpb.jpg","description":"A sweet, milky, aromatic concoction steeped with orange pekoe tea","prepTime":"PT10M","totalTime":"PT20M","recipeYield":"2 mugs","recipeIngredient":["300 g  Milk","300 g Water","8 g Ginger","1 piece Clove","1 piece Cardamom","25 g  Sugar","8 g Orange pekoe tea"],"recipeInstructions":["1. Using a mortar and pestle, roughly crush the clove and cardamom pod. This will help release their flavours.","2. Wash, peel, and dice the ginger roughly.","3. Set a saucepan over medium-high heat and add the water, clove, cardamom, and ginger.","4. Cover the pan and let the water come to a boil. Allow the spices to bubble in water for about 4 minutes.","5. Add the milk, and once it has heated up, add in the tea and sugar.","6. Allow this milky concoction to boil vigorously. Just when the tea is about to boil over, drop the heat and let it simmer for about 4 minutes. You can see the tea change colour from light brown to a rosy kind of orange.","7. Strain and serve immediately."]}
 ---
 
 
@@ -62,7 +34,7 @@ jsonLd: {
 ***
 ## Ingredients
 | Quantity | Ingredient       |
-|---------:|------------------|
+|----------|------------------|
 |    300 g | Water            |
 |    300 g | Milk             |
 |      8 g | Ginger           |

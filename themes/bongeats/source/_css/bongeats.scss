@@ -19,14 +19,15 @@
 @import
     'base/base';
 // //
-@import 'layouts/about',
+@import
+// 'layouts/about',
 'layouts/blog',
 'layouts/bottom-bar',
 // 'layouts/cover',
 'layouts/footer',
-'layouts/header',
+'layouts/header';
 // 'layouts/main',
-'layouts/sidebar';
+// 'layouts/sidebar';
 // //
 @import
 //     'components/alert',

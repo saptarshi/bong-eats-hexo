@@ -37,12 +37,12 @@ jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Badhakopi'r gh
 ***
 ## Ingredients
 |       Quantity | Ingredient                               |
-|---------------:|------------------------------------------|
+|----------------|------------------------------------------|
 |           15 g | Mustard oil                              |
 |        1 piece | Dried red chilli (whole)                 |
 |        1 piece | Bay leaf (whole)                         |
 |        1 piece | Cardamom (whole)                         |
-|        1 piece | Clove (whole)                           |
+|        1 piece | Clove (whole)                            |
 |        1 piece | Cinnamon (whole)                         |
 | 2 g (or ¼ tsp) | Cumin seeds                              |
 |          400 g | Cabbage (cut into thin shreds, 2 mm wide)|

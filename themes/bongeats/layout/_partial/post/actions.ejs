@@ -7,7 +7,7 @@
                 <% } else { %>
                     <a class="post-action-btn btn btn--disabled">
                 <% } %>
-                    <i class="fa fa-angle-left"></i>
+                    <
                     <span class="hide-xs hide-sm text-small icon-ml"><%= __('pagination.previous') %></span>
                 </a>
             </li>
@@ -18,27 +18,23 @@
                     <a class="post-action-btn btn btn--disabled">
                 <% } %>
                     <span class="hide-xs hide-sm text-small icon-mr"><%= __('pagination.next') %></span>
-                    <i class="fa fa-angle-right"></i>
+                    >
                 </a>
             </li>
         </ul>
     </nav>
     <ul class="post-actions post-action-share">
-
         <li class="post-action">
-            <a class="post-action-btn btn btn--social btn--google" target="_blank" href="<%= 'https://plus.google.com/share?url=' + post.permalink %>">
-                <i class="fa fa-google-plus"></i>
-            </a>
+          <amp-social-share type="facebook" data-param-app_id="1060975204048170"></amp-social-share>
         </li>
         <li class="post-action">
-            <a class="post-action-btn btn btn--social btn--facebook" target="_blank" href="<%= 'https://www.facebook.com/sharer/sharer.php?u=' + post.permalink %>">
-                <i class="fa fa-facebook"></i>
-            </a>
+          <amp-social-share type="twitter"></amp-social-share>
         </li>
         <li class="post-action">
-            <a class="post-action-btn btn btn--social btn--twitter" target="_blank" href="<%= 'https://twitter.com/intent/tweet?text=' + post.permalink %>">
-                <i class="fa fa-twitter"></i>
-            </a>
+          <amp-social-share type="gplus"></amp-social-share>
+        </li>
+        <li class="post-action">
+          <amp-social-share type="whatsapp"></amp-social-share>
         </li>
         <% if (post.comments && (theme.disqus_shortname || theme.duoshuo_shortname)) { %>
             <li class="post-action">

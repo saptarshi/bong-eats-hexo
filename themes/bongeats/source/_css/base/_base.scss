@@ -158,10 +158,15 @@ table {
           color: #000;
           transition: color 0.23s ease;
         }
-        &:nth-child(2n) {
-            // background: #f7f8f8;
-        }
+
     }
+
+}
+tr > td:first-child {
+    text-align: right;
+}
+tr > th:first-child {
+    text-align: right;
 }
 
 hr {

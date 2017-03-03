@@ -37,7 +37,7 @@ This recipe uses one large brinjal. When shopping for the vegetable, be sure to 
 ***
 ## Ingredients
 | Quantity | Ingredient               |
-|---------:|--------------------------|
+|----------|--------------------------|
 |  1 piece | Large brinjal            |
 |    ¼ tsp | Turmeric powder          |
 |  a pinch | Red chilli powder        |

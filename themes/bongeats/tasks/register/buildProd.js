@@ -7,6 +7,7 @@ module.exports = function(grunt) {
     // 'replace:cssFancybox',
     'replace:cssTranquilpeak',
     'concat',
+    // 'purifycss',
     'cssmin',
     'uglify',
     'linkAssetsProd'

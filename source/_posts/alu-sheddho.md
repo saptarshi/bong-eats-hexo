@@ -36,11 +36,11 @@ jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Alu sheddho","
 ***
 ## Ingredients
 | Quantity | Ingredient                              |
-|---------:|-----------------------------------------|
-|    340 g | Potatoes (boiled)                       |
+|----------|-----------------------------------------|
+| 340 g    | Potatoes (boiled)                       |
 | 2 pieces | Green chillies (finely chopped)         |
-|     12 g | Ghee or butter or mustard oil (any one) |
-|      4 g | Salt                                    |
+| 12 g     | Ghee or butter or mustard oil (any one) |
+| 4 g      | Salt                                    |
 
 ## Equipment
 - Boiling pot

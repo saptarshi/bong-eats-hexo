@@ -11,7 +11,7 @@
         // if its meta information are out of cover image
         &.hasCoverCaption,
         &.hasCoverMetaOut {
-            padding-top: 50px !important;
+            padding-top: 50px ;
         }
 
         // Set `padding-top` to 0 when there is a cover image on page and
@@ -22,7 +22,7 @@
         // The cover caption have a `margin-top` to `50px` to replace the padding
         &.hasCoverMetaIn,
         &.hasCoverMetaOut.hasCoverCaption {
-            padding-top: 0 !important;
+            padding-top: 0 ;
         }
     }
 }

@@ -37,7 +37,7 @@ This is an ideal dish to have on the menu if you are having guests over. You can
 ***
 ## Ingredients
 | Quantity | Ingredient                                               |
-|---------:|----------------------------------------------------------|
+|----------|----------------------------------------------------------|
 |    300 g | Shelled and deveined prawns (400 g before cleaning)      |
 |     20 g | Mustard seeds (soaked overnight in water)                |
 |     20 g | Coconut (chopped)                                        |
