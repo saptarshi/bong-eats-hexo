@@ -35,7 +35,7 @@ jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Dim'er dalna",
 ***
 ## Ingredients
 | Sl|                Quantity | Ingredient                                  |
-|--:|-------------------------|---------------------------------------------|
+|---|-------------------------|---------------------------------------------|
 |   |**OIL**                  |                                             |
 | 1 |                    20 g | Mustard oil (for frying)                    |
 | 2 |                    20 g | Mustard oil (for cooking)                   |

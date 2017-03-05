@@ -53,7 +53,7 @@ _Patishapta_ is a type of _pithe_. It is a light crêpe filled with either _khee
 **FOR THE _KHEER_ (FILLING)**
 
 | Quantity | Ingredient    |
-|---------:|---------------|
+|----------|---------------|
 |   1.5 kg | Milk          |
 |     65 g | Sugar         |
 |    1 tsp | Maida (flour) |
