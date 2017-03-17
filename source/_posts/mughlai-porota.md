@@ -53,7 +53,7 @@ _Mughlai porota_ can be made at home with a little bit of organisation. Plan for
 **FOR THE FILLING**
 
 | Quantity | Ingredient                            |
-|---------:|---------------------------------------|
+|----------|---------------------------------------|
 |  1 piece | Egg (beaten)                          |
 |     20 g | Keema (cooked mutton or beef keema)   |
 |     10 g | Onions (finely diced)                 |
