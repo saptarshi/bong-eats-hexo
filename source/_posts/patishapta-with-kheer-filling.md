@@ -79,12 +79,12 @@ _Patishapta_ is a type of _pithe_. It is a light crêpe filled with either _khee
 4. Cover the batter and set it aside to rest, for 2 hours. This will allow time for the _sooji_ to swell up and the sugar to melt.
 5. While your batter is resting, prepare the _kheer_, which will form the filling for our _patishapta_.
 
-**STEP II—MAKE THE _KHEER_ [WATCH HOW TO MAKE _KHEER_](https://youtu.be/PzFXjD8D3AY?list=PLGX3dcCcJDYweaL6mlxJ54UAoKZAjNluz)**
+**STEP II—MAKE THE _KHEER_ [[WATCH HOW TO MAKE _KHEER_]](https://youtu.be/PzFXjD8D3AY?list=PLGX3dcCcJDYweaL6mlxJ54UAoKZAjNluz)**
 1. Take 1.5 kg milk in a heavy-bottom saucepan and set it to boil.
 2. Once bubbling, stir in 65 g sugar.
 3. Keep boiling the milk, while stirring it continuously, for about 90 minutes.
 4. During this entire time, the pot should be on medium to low heat.
-5. At regular intervals of 3–4 minutes, be sure to scrape the solids from the bottom and sides of the pot, and incorporate it into the boiling milk. This step, as well as the previous one, is crucial. We don’t want our _kheer_ to burn at any point.
+5. At regular intervals of 3–4 minutes, be sure to scrape the solids from the bottom and sides of the pot, and incorporate them into the boiling milk. This step, as well as the previous one, is crucial. We don’t want our _kheer_ to burn at any point.
 6. Once the milk has thickened such that when you lift some of it on your spoon and drop it, it falls in clumps, make a paste of 1 tsp flour and 1 tbsp milk.
 7. Add this paste to the pot. Stir and cook for another 5 minutes.
 8. Allow the _kheer_ to cool before proceeding to the next stage.

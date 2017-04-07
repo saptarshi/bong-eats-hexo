@@ -69,6 +69,6 @@ Another tip that a lot of beginners would benefit from is this: allow the dough 
 - Alu’r torkari
 - Shada phulkopi’r torkari
 - Alu’r dom
-- Dim’er kosha
-- Kosha maangsho
+- [Dim’er kosha](/recipe/dimer-dalna/)
+- [Kosha maangsho](/recipe/chicken-curry/)
 - Payesh
