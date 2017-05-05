@@ -34,7 +34,7 @@ jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Phulkopi'r dal
 ***
 ## Ingredients
 | Sl|                Quantity | Ingredient                         |
-|--:|-------------------------|------------------------------------|
+|---|-------------------------|------------------------------------|
 |   |**OIL**                  |                                    |
 | 1 |                    30 g | Mustard oil (for frying)           |
 | 2 |                    10 g | Mustard oil (for cooking)          |
