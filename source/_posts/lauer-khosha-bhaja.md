@@ -5,6 +5,7 @@ tags:
   - vegetarian
   - vegan
   - gluten-free
+  - lau
 description: >-
   A simple, quick, and easy stir-fry made from bottle-gourd peels, the lau’er khosha bhaja is as nutritious as it is delicious.
 categories:
