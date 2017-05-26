@@ -38,9 +38,9 @@ The fermentation of the rice carbohydrates by good bacteria increases the availa
 
 | Minerals  | Cooked Rice | Panta Bhaat |  
 |-----------|-------------|-------------|
-| sodium    | 3.4 mg      | 73.91 mg    |
-| potassium | 475 mg      | 303 mg      |
-| iron      | 21 mg       | 839 mg      |
+| Iron      | 3.4 mg      | 73.91 mg    |
+| Sodium    | 475 mg      | 303 mg      |
+| Potassium | 21 mg       | 839 mg      |
 Source: {% link "The Telegraph, 4 August 2011" https://www.telegraphindia.com/1110804/jsp/northeast/story_14328967.jsp %}
 
 Consumed in summer, _panta bhaat_ supplies probiotic bacteria and plenty of micronutrients that aid digestion. It produces a soporific effect that is conducive to a siesta that Bengalis love.
