@@ -31,7 +31,7 @@ date: 2017-05-25 21:00:00
 <p class="post-intro">This nutritious _moong dal_ contains healthy portions of bitter melon (_korola_) and bottle gourd (_lau_). But that doesn’t make it any less delicious.</p>
 
 <!-- more -->
-<span class="dropcap">T</span>his is a wonderful _dal_ for the spring-summer months. _Teto'r dal_, or as the _Bangals_ (Bengalis from erstwhile East Pakistan) call it, _tita'r dal_, is light, mellow, and nutritious, to say nothing of delicious. This _dal_ gets its name from the fact that it contains _korola_ or bitter gourd; ‘_teto_’ literally means bitter.
+<span class="dropcap">T</span>his is a wonderful _dal_ for the spring-summer months. _Teto'r dal_, or as the _Bangals_ (Bengali immigrants from the eastern part of undivided Bengal) call it, _tita'r dal_, is light, mellow, and nutritious, to say nothing of delicious. This _dal_ gets its name from the fact that it contains _korola_ or bitter gourd; ‘_teto_’ literally means bitter.
 
 ***
 
