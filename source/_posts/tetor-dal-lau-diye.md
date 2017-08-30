@@ -1,5 +1,5 @@
 ---
-title: Teto'r Dal Lau Diye
+title: Teto’r Dal Lau Diye
 tags:
   - lau
   - korola

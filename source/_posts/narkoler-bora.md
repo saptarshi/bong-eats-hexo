@@ -1,5 +1,5 @@
 ---
-title: Narkol'er Bora | Coconut fritters
+title: Narkol’er Bora | Coconut fritters
 description: Coconut fritters- traditional Bengali recipe of fresh coconuts grated, spiced with green chillies, then shallow-fried.
 tags:
   - bhaja

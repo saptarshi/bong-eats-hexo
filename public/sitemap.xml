@@ -7,8 +7,62 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://bongeats.com/recipe/khichuri/</loc>
+    <lastmod>2017-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://bongeats.com/recipe/ilish-paturi/</loc>
+    <lastmod>2017-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://bongeats.com/recipe/ilish-macher-tel-jhol/</loc>
+    <lastmod>2017-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://bongeats.com/recipe/pabda-machher-tel-jhol/</loc>
     <lastmod>2017-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://bongeats.com/recipe/prawn-cocktail/</loc>
+    <lastmod>2017-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://bongeats.com/recipe/shami-kabab/</loc>
+    <lastmod>2017-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://bongeats.com/recipe/ema-datshi/</loc>
+    <lastmod>2017-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>.5</priority>
+  </url>
+  <url>
+    <loc>https://bongeats.com/recipe/churmur/</loc>
+    <lastmod>2017-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>.5</priority>
+  </url>  
+  <url>
+    <loc>https://bongeats.com/recipe/tingmo/</loc>
+    <lastmod>2017-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>.5</priority>
+  </url>
+  <url>
+    <loc>https://bongeats.com/recipe/khichra-bohra-haleem/</loc>
+    <lastmod>2017-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
@@ -22,6 +76,12 @@
     <loc>https://bongeats.com/recipe/panta-bhat/</loc>
     <lastmod>2017-05-18</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>.8</priority>
+  </url>
+  <url>
+    <loc>https://bongeats.com/recipe/aloo-paratha/</loc>
+    <lastmod>2017-07-20</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>.8</priority>
   </url>
   <url>

@@ -1,5 +1,5 @@
 ---
-title: Lau'er Ghonto, with Moong Dal & Bori
+title: Lau’er Ghonto, with Moong Dal & Bori
 tags:
   - ghonto
   - torkari

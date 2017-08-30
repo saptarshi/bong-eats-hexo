@@ -1,5 +1,5 @@
 ---
-title: Kumro'r Jhal
+title: Kumro’r Jhal
 tags:
   - torkari
   - jhal

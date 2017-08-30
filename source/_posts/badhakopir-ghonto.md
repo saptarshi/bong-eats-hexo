@@ -1,5 +1,5 @@
 ---
-title: Badhakopi'r Ghonto | Dry Cabbage and Peas Curry
+title: Badhakopi’r Ghonto | Dry Cabbage and Peas Curry
 description: A mildly spiced dry cabbage curry with peas-a kind of Bengali vegetarian ghonto with delicate flavours of ginger, garam masala and ghee.
 tags:
   - ghonto

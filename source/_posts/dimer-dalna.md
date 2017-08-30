@@ -1,5 +1,5 @@
 ---
-title: Dim'er Dalna or Duck Egg Curry
+title: Dim’er Dalna or Duck Egg Curry
 description: The ultimate Bengali egg curry made with duck eggs-boiled, fried golden, then cooked in onion-garlic-ginger-tomato-garam masala sauce.
 tags:
   - dalna

@@ -1,5 +1,5 @@
 ---
-title: Phulkopi'r Dalna | Cauliflower Curry with Peas
+title: Phulkopi’r Dalna | Cauliflower Curry with Peas
 description: Video recipe for traditional Bengali cauliflower curry with potatoes and peas, fragrant with ginger, garam masala and ghee.
 tags:
   - dalna

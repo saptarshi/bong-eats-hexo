@@ -1,5 +1,5 @@
 ---
-title: Koi Machh'er Jhol Phulkopi diye
+title: Koi Machh’er Jhol Phulkopi diye
 description: Video recipe for traditional Bengali fish curry made with koi fish simmered in a light gravy along with cauliflowers, bori and potatoes
 tags:
   - fish

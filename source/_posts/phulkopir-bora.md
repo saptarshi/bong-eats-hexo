@@ -1,5 +1,5 @@
 ---
-title: Phulkopi'r Bora | Cauliflower fritters
+title: Phulkopi’r Bora | Cauliflower fritters
 description: Cauliflower fritters, coated with a simple flour batter and traditional Bengali spices, and deep-fried till golden-brown and delicious.
 tags:
   - vegetarian

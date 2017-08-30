@@ -1,4 +1,6 @@
+<% if (post.videoId) { %>
 <amp-youtube width="480" height="270" layout="responsive" data-videoid="<%=(post.videoId)%>"></amp-youtube>
+<% } %>
  <amp-analytics type="googleanalytics" id="analytics1">
    <script type="application/json">
     {
@@ -14,6 +16,7 @@
     }
     </script>
  </amp-analytics>
+ 
 <div class="post-header main-content-wrap <%= (post.metaAlignment ? 'text-' + post.metaAlignment : 'text-left') %>">
     <% if (post.link) { %>
         <h1 itemprop="headline">
