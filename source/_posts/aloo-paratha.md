@@ -106,8 +106,3 @@ A good stuffed _porota_ has a flaky exterior (you should be able to tear it with
 - Pickles
 - Green chilli
 - Raw onion
-
-***
-
-### Equipments used in our videos
-<iframe src="https://kit.com/embed?url=https%3A%2F%2Fkit.com%2Fbongeats%2Fkitchen-set-up" style="display: block; border: 0px; margin: 0 auto; width: 100%; height: 100vw; max-width: 700px; max-height: 700px" scrolling="no"></iframe>
