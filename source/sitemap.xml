@@ -43,6 +43,24 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://bongeats.com/recipe/ghugni/</loc>
+    <lastmod>2017-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://bongeats.com/recipe/bengali-vegetable-fried-rice/</loc>
+    <lastmod>2017-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>.5</priority>
+  </url>
+  <url>
+    <loc>https://bongeats.com/recipe/paneer-dalna/</loc>
+    <lastmod>2017-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>.5</priority>
+  </url>
+  <url>
     <loc>https://bongeats.com/recipe/kolkata-egg-roll/</loc>
     <lastmod>2017-09-01</lastmod>
     <changefreq>weekly</changefreq>
