@@ -58,7 +58,16 @@
             <% if (thumbnailImageUrl !== null && thumbnailImagePosition === "top") { %>
                 <a href="<%- url_for(post.path) %>">
                     <div class="postShorten-thumbnailimg">
-                        <amp-youtube width="480" height="270" layout="responsive" data-videoid="<%=(post.videoId)%>"></amp-youtube>
+                        <% if (post.videoId !== null) { %>
+                            <amp-youtube width="480" height="270" layout="responsive" data-videoid="<%=(post.videoId)%>"></amp-youtube>
+                        <% } else { %>
+                            <amp-img alt="Equipments used in baking the cake" 
+                            src="<%=(post.thumbnailImage)%>"
+                            width="640"
+                            height="360"
+                            layout="responsive">
+                        </amp-img>
+                      <% } %>
                     </div>
                 </a>
                 <% thumbnailImageUrl = null; %>

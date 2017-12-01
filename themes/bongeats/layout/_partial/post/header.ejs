@@ -1,6 +1,14 @@
 <% if (post.videoId) { %>
 <amp-youtube width="480" height="270" layout="responsive" data-videoid="<%=(post.videoId)%>"></amp-youtube>
 <% } %>
+<% if (post.thumbnailImage) { %>
+    <amp-img alt="" 
+    src="<%=(post.thumbnailImage)%>"
+    width="640"
+    height="360"
+    layout="<% if (post.videoId) { %>nodisplay<% } else { %>responsive<% } %>">
+  </amp-img>
+<% } %>
  <amp-analytics type="googleanalytics" id="analytics1">
    <script type="application/json">
     {
