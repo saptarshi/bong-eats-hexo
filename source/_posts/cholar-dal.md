@@ -27,9 +27,9 @@ jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Chhola’r Dal
 
 <!-- more -->
 
-<span class="dropcap">E</span>very family has its own the classic Bengali _cholar dal_ recipe. In fact, the Bengali culinary tradition is replete with easy _dal_ recipes for every occasion. This is the _niramish_ or vegetarian version of the Bengali _cholar_ (or _chholar_) _dal_, prepared without onions or garlic. _Hing_ (asafoetida) supplies the necessary sharpness that one would generally get from the use of onions. The best part about this warm, mellow delicious, coconut-and-raisin (_narkel aar kishmish_) strewn _cholar dal_? It can be served for breakfast, lunch or dinner, with rice, _polao_, _luchi_, _kochuri_ or _porota_! It doesn’t get more versatile than this. Master this Bengali _cholar dal recipe_ and it is sure to become the secret weapon in your culinary arsenal for when you are looking for an impressive, yet quick, easy, Bengali vegetarian _dal_ preparation.
+<span class="dropcap">E</span>very family has its own the classic Bengali _chholar dal_ recipe. In fact, the Bengali culinary tradition is replete with easy _dal_ recipes for every occasion. This is the _niramish_ or vegetarian version of the Bengali _chholar_ (or _chholar_) _dal_, prepared without onions or garlic. _Hing_ (asafoetida) supplies the necessary sharpness that one would generally get from the use of onions. The best part about this warm, mellow, delicious coconut-and-raisin (_narkel aar kishmish_) strewn _chholar dal_? It can be served for breakfast, lunch or dinner, with rice, _polao_, _luchi_, _kochuri_ or _porota_! It doesn’t get more versatile than this. Master this Bengali _chholar dal recipe_ and it is sure to become the secret weapon in your culinary arsenal for when you are looking for an impressive, yet quick, easy, Bengali vegetarian _dal_ preparation.
 
-In this video recipe, we show you how to make _cholar dal_ (or _chana dal_, as it is known in Hindi) that has the perfect balance of sweet and savoury flavours, and the right consistency and texture. Although this preparation is a Bengali classic, other parts of India, and Pakistan and Bangladesh, too, enjoy their own versions of this delicious and nutritious _chana dal_.
+In this video recipe, we show you how to make _chholar dal_ (or _chana dal_, as it is known in Hindi) that has the perfect balance of sweet and savoury flavours, and the right consistency and texture. Although this preparation is a Bengali classic, other parts of India, and Pakistan and Bangladesh, too, enjoy their own versions of this delicious and nutritious _chana dal_.
 
 
 
@@ -37,7 +37,7 @@ In this video recipe, we show you how to make _cholar dal_ (or _chana dal_, as i
 
 **COOKING TIME** 45 minutes
 **YIELDS** 6 servings
-**calories** 197 kcal per momo
+**calories** 197 kcal per serving
 
 ***
 ## Ingredients
@@ -59,7 +59,7 @@ In this video recipe, we show you how to make _cholar dal_ (or _chana dal_, as i
 |    ½ tsp | Coriander powder                        |
 |      3 g | Cumin powder                            |
 |    6 pcs | Green chillies (slit)                   |
-|    ¼ tsp | Garam masala                            |
+|    ¼ tsp | [Bengali garam masala powder](/recipe/bengali-garam-masala)            |
 |      5 g | Ghee                                    |
 |     18 g | Salt                                    |
 |     24 g | Sugar                                   |
