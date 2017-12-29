@@ -305,8 +305,22 @@
   </url>
 
   <url>
-    <loc>https://bongeats.com/recipe/mughlai-porota//</loc>
+    <loc>https://bongeats.com/recipe/mughlai-porota/</loc>
     <lastmod>2016-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+
+  <url>
+    <loc>https://bongeats.com/recipe/vegetable-chop/</loc>
+    <lastmod>2017-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+
+  <url>
+    <loc>https://bongeats.com/recipe/niramish-aloo-dum/</loc>
+    <lastmod>2017-12-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>

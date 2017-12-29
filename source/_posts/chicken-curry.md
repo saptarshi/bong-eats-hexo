@@ -107,3 +107,4 @@ date: 2017-03-23 09:00:00
 ## Served with
 - [Rice](/how-to/cook-the-perfect-rice/)
 - Roti | [Luchi](/recipe/luchi/)
+- [Fried rice](/recipe/bengali-vegetable-fried-rice/)
