@@ -91,7 +91,7 @@ Today’s recipe can double as an easy _bhog’er khichuri_, as well as a delici
 10. Add the grated coconut. Fry for about 3 minutes until the coconut turns golden.
 11. Add the ginger-turmeric-cumin paste to the pan. Fry the spices on medium heat till the their raw smell is gone and oil starts oozing from the mixture. This should take about 8 minutes. If you find during this time that the mixture has run dry, add about 50 g more water and continue frying.
 12. Add the tomatoes, cover, and cook for about 2 minutes. 
-13. Next, add the fried _gobindobhog_ rice, roasted _moond dal_, and 2 slit green chillies. Stir them into the spices and cook for about 2 minutes.
+13. Next, add the fried _gobindobhog_ rice, roasted _moong dal_, and 2 slit green chillies. Stir them into the spices and cook for about 2 minutes.
 14. Add 1.8 litres of hot water along with the salt. Cover the pan and allow its contents to boil for about 5 minutes. The heat should be set at low from this point onwards.
 15. Once the water is bubbling, add the fried potatoes and cauliflower. Cover and cook for about 15 minutes. _Dal_ tends to settle at the bottom and stick to the pan, so don’t forget to stir occasionally, scraping the bottom thoroughly. 
 16. After 15 minutes, add the sugar, blanched peas, and 3 more slit green chillies. Stir everything in and cook for 3 to 4 more minutes.
@@ -104,3 +104,5 @@ Today’s recipe can double as an easy _bhog’er khichuri_, as well as a delici
 - Papad
 - Omelette
 - [Begun bhaja](/recipe/begun-bhaja/)
+- [Tomato-Khejur-Amsotto’r Chutney](recipe/tomato-chutney-khejur-amsotto/)
+- [Payesh](/recipe/nolen-gurer-payesh/)

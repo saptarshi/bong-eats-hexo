@@ -29,7 +29,7 @@ jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Tomato-Khejur-
 <p class="post-intro">Sweet and slightly tart, the tomato-khejur’er chutney popular at wedding feasts, is easy to make and cooks in under 15 minutes.</p>
 
 <!-- more -->
-<span class="dropcap">T</span>here’s no better after-meal treat than the sweet-tangy Bengali tomato chutney with a scattering of _khejur_ (dates), _aamshotto_ (mango pulp candy), raisins and cashew. Extremely popular on _biyebari_ (wedding feast) menus, as well as in _pujo bhog_s (offerings) where it is served alongside _khichuri_, the syrupy tomato-khejur’er chutney is slurped up with crunchy fried papad. Served right after the fish or meat courses, and just before dessert, chutneys ease you from one to the other. 
+<span class="dropcap">T</span>here’s no better after-meal treat than the sweet-tangy Bengali tomato chutney with a scattering of _khejur_ (dates), _aamshotto_ (mango pulp candy), raisins and cashew. Extremely popular on _biyebari_ (wedding feast) menus, as well as in _pujo bhog_ (offerings) where it is served alongside _khichuri_, the syrupy tomato-khejur’er chutney is slurped up with crunchy fried papad. Served right after the fish or meat courses, and just before dessert, chutneys ease you from one to the other. 
 
 <p>The sweet Bengali tomato chutney recipe is so simple that it beggars belief—including prep time, it takes under 30 minutes to make! With ripe red tomatoes in abundance, winters are the perfect time for preparing it in large batches. Feed a large group of people, or savour this long-lasting tomato chutney (if divided up and stored in small airtight containers in the fridge, it can last for as long as 3–4 months) by yourself over time, either way do give this a try!</p>
 
