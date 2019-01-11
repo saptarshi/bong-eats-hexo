@@ -341,6 +341,13 @@
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
+  
+  <url>
+    <loc>https://bongeats.com/recipe/kolkata-mutton-biryani/</loc>
+    <lastmod>2018-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
 
   <url>
     <loc>https://bongeats.com/recipe/vegetable-chop/</loc>
@@ -488,4 +495,120 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+
+  <url>
+    <loc>https://bongeats.com/recipe/aamer-tok/</loc>
+    <lastmod>2018-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://bongeats.com/recipe/bhaater-kofta-thakurbarir-ranna/</loc>
+    <lastmod>2018-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bongeats.com/recipe/chilli-chicken/</loc>
+    <lastmod>2018-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+<url>
+    <loc>https://bongeats.com/recipe/chingri-malaikari/</loc>
+    <lastmod>2018-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://bongeats.com/recipe/doodh-potol/</loc>
+    <lastmod>2018-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bongeats.com/recipe/ilish-bhaja/</loc>
+    <lastmod>2018-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+<url>
+    <loc>https://bongeats.com/recipe/ilish-bhapa/</loc>
+    <lastmod>2018-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://bongeats.com/recipe/jhinger-jhal/</loc>
+    <lastmod>2018-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bongeats.com/recipe/kacha-moong-dal/</loc>
+    <lastmod>2018-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+<url>
+    <loc>https://bongeats.com/recipe/kanchkolar-khosa-chochchori/</loc>
+    <lastmod>2018-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://bongeats.com/recipe/mishti-polao/</loc>
+    <lastmod>2018-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bongeats.com/recipe/mochar-ghonto/</loc>
+    <lastmod>2018-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+<url>
+    <loc>https://bongeats.com/recipe/phirni/</loc>
+    <lastmod>2018-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://bongeats.com/recipe/shukto/</loc>
+    <lastmod>2018-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://bongeats.com/recipe/phuchka/</loc>
+    <lastmod>2018-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+
+  <url>
+    <loc>https://bongeats.com/recipe/steamed-carrot-ginger-pudding/</loc>
+    <lastmod>2018-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+
+  <url>
+    <loc>https://bongeats.com/recipe/vindaloo/</loc>
+    <lastmod>2018-12-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+
 </urlset>

@@ -86,6 +86,6 @@ This polao tastes best the next day, so plan accordingly. Resting allows all the
 
 
 ## Served with
-- [Mutton kosha]('/recipe/mutton-kosha/')
-- [Chicken curry]('/recipe/chicken-curry/')
-- [Paneer’er dalna]('/recipe/paneer-dalna/')
+- [Mutton kosha](/recipe/mutton-kosha/)
+- [Chicken curry](/recipe/chicken-curry/)
+- [Paneer’er dalna](/recipe/paneer-dalna/)

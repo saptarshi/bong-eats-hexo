@@ -24,7 +24,7 @@ jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Bhaat’er Kof
 
 <p class="post-byline">A snack of delicately flavoured, deep-fried rice balls</p>
 
-<p class="post-intro">A 100 year old recipe from Rabindranath Tagore's niece, Pragyasundari Debi's cookbook [Amish O Niramish Ahar Volume 1]('https://www.amazon.in/dp/8172152175?tag=bongeats0c-21').</p>
+<p class="post-intro">A 100 year old recipe from Rabindranath Tagore's niece, Pragyasundari Debi's cookbook [Amish O Niramish Ahar Volume 1](https://www.amazon.in/dp/8172152175?tag=bongeats0c-21).</p>
 
 <!-- more -->
 

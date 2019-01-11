@@ -56,7 +56,7 @@ In this detailed video we show you how to prepare a gorgeous, creamy chingri mal
 |    200 g | Coconut milk (second-press)                               |
 |     24 g | Salt                                                      |
 |     36 g | Sugar                                                     |
-|    ½ tsp | [Bengali garam masala]('/recipe/bengali-garam-masala/')   |
+|    ½ tsp | [Bengali garam masala](/recipe/bengali-garam-masala/)   |
 
 
 

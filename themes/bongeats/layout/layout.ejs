@@ -14,6 +14,27 @@
 <html ⚡ lang="<%= config.language %>">
     <%- partial('_partial/head') %>
     <body>
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org/",
+                "@graph": [
+                    {
+                        "@type": "Organization",
+                        "url": "https://bongeats.com",
+                        "logo": "https://res.cloudinary.com/dmpeew57x/image/upload/v1488863998/icons/android-chrome-512x512.png",
+                        "name": "Bong Eats",
+                        "sameAs": [
+                            "https://www.youtube.com/c/BongEats",
+                            "https://www.facebook.com/BongEats/",
+                            "https://www.instagram.com/bongeats/",
+                            "https://twitter.com/bongeats",
+                            "https://plus.google.com/+BongEats"
+                          ]
+                    }
+            
+                ]
+            }
+        </script>
         <% if (page.jsonLd) { %>
           <script type="application/ld+json">
               <%- JSON.stringify(page.jsonLd) %>

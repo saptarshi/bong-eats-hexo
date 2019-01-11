@@ -91,5 +91,5 @@ jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Chilli Chicken
 
 
 ## Served with
-- [Fried rice]('/recipe/bengali-vegetable-fried-rice/')
+- [Fried rice](/recipe/bengali-vegetable-fried-rice/)
 - Roomali rooti

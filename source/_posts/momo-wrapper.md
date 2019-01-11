@@ -63,7 +63,7 @@ We love juicy [pork momos](/recipe/pork-momo) and beef momos best.
 2. Place the dough inside a large plastic bag or a Ziploc bag and allow it to rest for at least 60 minutes. 
 3. After 60 minutes, knead the dough for about 5 seconds and you will notice that it is considerably smoother now.
 4. Work in sections and reserve the ones you’re not using in a plastic bag so that they don’t dry out. Divide the dough in 12 g portions. Roll each portion using your palms into a disc. Keep these discs covered with the plastic bag until you need them. 
-5. Roll out into wrappers about 9 cm in diameter as shown in [this video]('https://youtu.be/hVRRaYjjUis?t=4m1s'). 
+5. Roll out into wrappers about 9 cm in diameter as shown in [this video](https://youtu.be/hVRRaYjjUis?t=4m1s). 
 6. Dust with flour so that the wrappers don’t stick. 
 7. Fill them with a momo filling of your choice.
 

@@ -26,7 +26,7 @@ jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Kacha Moog'er 
 
 <!-- more -->
 
-<span class="dropcap">K</span>acha Moog'er Dal is a light dal made with moong lentils that is ideal for the summer months when it is too hot to eat the more decadent [Bhaja Moog'er Dal]('/recipe/bhaja-moong-dal-shobji-diye/'). This is also different from the [Lau diye Tetor Dal]('/recipe/tetor-dal-lau-diye/') (dal made with gourd and bitter gourd) in terms of the tempering used—plus this is very quick and very easy to make. Just serve the kacha moong dal with some [aloo seddho]('/recipe/alu-sheddho/') or [aloo bhorta]('/recipe/aloo-bhorta/') and it makes for a simple but nourishing lunch.
+<span class="dropcap">K</span>acha Moog'er Dal is a light dal made with moong lentils that is ideal for the summer months when it is too hot to eat the more decadent [Bhaja Moog'er Dal](/recipe/bhaja-moong-dal-shobji-diye/). This is also different from the [Lau diye Tetor Dal](/recipe/tetor-dal-lau-diye/) (dal made with gourd and bitter gourd) in terms of the tempering used—plus this is very quick and very easy to make. Just serve the kacha moong dal with some [aloo seddho](/recipe/alu-sheddho/) or [aloo bhorta](/recipe/aloo-bhorta/) and it makes for a simple but nourishing lunch.
 
 ***
 

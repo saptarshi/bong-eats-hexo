@@ -78,7 +78,7 @@ jsonLd: {"@context":"http://schema.org/","@type":"Recipe","name":"Mocha'r Ghonto
 
 ## Method
 
-1. Clean and cut mocha [as shown in this video]('https://www.youtube.com/watch?v=G4Igr5VwEEQ'). A 550 g whole mocha roughly yields 300 to 350 g edible mocha. 
+1. Clean and cut mocha [as shown in this video](https://www.youtube.com/watch?v=G4Igr5VwEEQ). A 550 g whole mocha roughly yields 300 to 350 g edible mocha. 
 2. Add chopped mocha to a pressure cooker with 10 g salt, ½ tsp turmeric, and 650 g water. Pressure cook on medium heat for one whistle and then allow the steam to release naturally. 
 3. Open the pressure cooker and strain the mocha over a net or colander. Once cool to the touch (in about 30 minutes), gently mash the mocha to get a mix of mushy and crunchy textures.
 4. Heat mustard oil in a pan. If using prawns, coat them in a pinch of salt and turmeric, and fry them on medium heat for about 45 seconds. Remove from the oil and set aside. 
